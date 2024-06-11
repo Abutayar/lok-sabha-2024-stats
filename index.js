@@ -106,9 +106,9 @@ async function fetchPartyWiseCount() {
             console.error('Failed to retrieve HTML.');
         }
         //console.log(element);
-        
+
     }
-    saveData(moreInfo,'detail-partywise-won-seat-data.json');
+    saveData(moreInfo, 'detail-partywise-won-seat-data.json');
 }
 
 // fetchPartyWiseCount()
@@ -117,7 +117,7 @@ async function fetchPartyWiseCount() {
 
 const LS_2024_PARTY_WISE_WINNER_DATA = require('./dataset/detail-partywise-won-seat-data.json');
 
-const WINNER_LIST = Object.values(LS_2024_PARTY_WISE_WINNER_DATA).reduce((a,c) => [...a,...c], [])
+const WINNER_LIST = Object.values(LS_2024_PARTY_WISE_WINNER_DATA).reduce((a, c) => [...a, ...c], [])
 
 
 
@@ -128,8 +128,8 @@ async function fetchConstituencyWiseCount() {
         const element = WINNER_LIST[index];
         // https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S015.htm
         // https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS015.htm
-        console.log('fetching...' , element['next'].replace('candidateswise-','Constituencywise'))
-        const html = await fetchHTML(element['next'].replace('candidateswise-','Constituencywise'));
+        console.log('fetching...', element['next'].replace('candidateswise-', 'Constituencywise'))
+        const html = await fetchHTML(element['next'].replace('candidateswise-', 'Constituencywise'));
         if (html) {
             const data = await extractData(html, 'table thead tr', 'table tbody tr');
             moreInfo[element['Parliament Constituency']] = data;
@@ -137,9 +137,9 @@ async function fetchConstituencyWiseCount() {
             console.error('Failed to retrieve HTML.');
         }
         //console.log(element);
-        
+
     }
-    saveData(moreInfo,'constituency-wise-vote-count-data.json');
+    saveData(moreInfo, 'constituency-wise-vote-count-data.json');
 }
 
 //fetchConstituencyWiseCount();
@@ -148,22 +148,39 @@ async function fetchConstituencyWiseCount() {
 
 
 
-const constituencywisedataset =  require('./dataset/constituency-wise-vote-count-data.json');
+const constituencywisedataset = require('./dataset/constituency-wise-vote-count-data.json');
 const constituency = Object.keys(constituencywisedataset).length
 
 const constituencyWise = {};
 let total = 0;
+const partyWiseTotalVote = {};
 
 for (const key in constituencywisedataset) {
     if (Object.hasOwnProperty.call(constituencywisedataset, key)) {
         const element = constituencywisedataset[key];
+
         constituencyWise[key] = 0;
-        element.forEach(each => constituencyWise[key] += parseInt(each["Total Votes"])); 
-       // console.log(key,constituencyWise[key])
-        if(Number.isNaN(constituencyWise[key])) continue;
+
+        element.forEach(each => {
+            constituencyWise[key] += parseInt(each["Total Votes"])
+            if (each['Party'] in partyWiseTotalVote) {
+                partyWiseTotalVote[each['Party']]['EVM Votes'] += parseInt(each['EVM Votes']) || 0;
+                partyWiseTotalVote[each['Party']]['Postal Votes'] += parseInt(each['Postal Votes']) || 0;
+                partyWiseTotalVote[each['Party']]['Total Votes'] += parseInt(each['Total Votes']) || 0;
+            } else {
+                partyWiseTotalVote[each['Party']] = {
+                    "EVM Votes": parseInt(each['EVM Votes']) || 0,
+                    "Postal Votes": parseInt(each['Postal Votes']) || 0,
+                    "Total Votes": parseInt(each['Total Votes']) || 0,
+                };
+            }
+        });
+
+
+        if (Number.isNaN(constituencyWise[key])) continue;
         total = constituencyWise[key] + total;
     }
 }
 
 
-saveData({constituencyWise,total, constituency},'count-stats.json');
+saveData({ constituencyWise, total, constituency, partyWiseTotalVote }, 'count-stats.json');

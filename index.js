@@ -132,9 +132,12 @@ async function fetchConstituencyWiseCount() {
         const html = await fetchHTML(element['next'].replace('candidateswise-', 'Constituencywise'));
         if (html) {
             const data = await extractData(html, 'table thead tr', 'table tbody tr');
-            moreInfo[element['Parliament Constituency']] = data;
+            // sorting because on eci page for jajpur has sort issue
+            // Issue URL : https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS188.htm
+            moreInfo[element['Parliament Constituency']] = data.sort((a,b) =>  b["% of Votes"] - a["% of Votes"]);
         } else {
             console.error('Failed to retrieve HTML.');
+            throw new Error('Failed to retrieve HTML.')
         }
         //console.log(element);
 
@@ -142,29 +145,43 @@ async function fetchConstituencyWiseCount() {
     saveData(moreInfo, 'constituency-wise-vote-count-data.json');
 }
 
-//fetchConstituencyWiseCount();
-
-
+// fetchConstituencyWiseCount();
 
 
 
 const constituencywisedataset = require('./dataset/constituency-wise-vote-count-data.json');
+const { error } = require('console');
 const constituency = Object.keys(constituencywisedataset).length
 
 const constituencyWise = {};
 let totalVoteCountInLS2024 = 0;
 let totalCandidateInLS2024 = 0;
+
+let NOTA_STATS = {
+    total: 0,
+    highest: {
+        constituency: null,
+        count: 0
+    },
+    lowest: {
+        constituency: null,
+        count: 0
+    },
+}
 const partyWiseData = {};
 const parties = [];
+let count = 0;
+for (const constituency in constituencywisedataset) {
+    if (Object.hasOwnProperty.call(constituencywisedataset, constituency)) {
+        const candidateList = constituencywisedataset[constituency];
 
-for (const key in constituencywisedataset) {
-    if (Object.hasOwnProperty.call(constituencywisedataset, key)) {
-        const candidateList = constituencywisedataset[key];
+        constituencyWise[constituency] = 0;
 
-        constituencyWise[key] = 0;
+
+    
 
         candidateList.forEach(candidate => {
-            constituencyWise[key] += parseInt(candidate["Total Votes"])
+            constituencyWise[constituency] += parseInt(candidate["Total Votes"])
             if (candidate['Party'] in partyWiseData) {
                 partyWiseData[candidate['Party']]['EVM Votes'] += parseInt(candidate['EVM Votes']) || 0;
                 partyWiseData[candidate['Party']]['Postal Votes'] += parseInt(candidate['Postal Votes']) || 0;
@@ -175,23 +192,44 @@ for (const key in constituencywisedataset) {
                     "EVM Votes": parseInt(candidate['EVM Votes']) || 0,
                     "Postal Votes": parseInt(candidate['Postal Votes']) || 0,
                     "Total Votes": parseInt(candidate['Total Votes']) || 0,
-                    "Total Candidate": 1
+                    "Total Candidate": 1,
+                    "Won": 0,
+                    "Constituency Won list": []
                 };
             }
             if (!parties.includes(candidate['Party']) && candidate['Party'] !== 'Independent' && candidate['Candidate'] !== 'NOTA') {
                 parties.push(candidate['Party'])
             }
+            
+            /* if(candidate['Party'] == 'Independent') {
+                totalIndependentCandidate++;
+            } */
+
+
             if (candidate['Candidate'] !== 'NOTA') {
                 totalCandidateInLS2024++;
             }
         });
+        partyWiseData[candidateList[0]['Party']]['Won']++;
+        partyWiseData[candidateList[0]['Party']]['Constituency Won list'].push(constituency);
+        count++;
 
 
-        if (Number.isNaN(constituencyWise[key])) continue;
-        totalVoteCountInLS2024 = constituencyWise[key] + totalVoteCountInLS2024;
+
+        if (Number.isNaN(constituencyWise[constituency])) continue;
+        totalVoteCountInLS2024 = constituencyWise[constituency] + totalVoteCountInLS2024;
     }
 }
+console.log({count});
+const partyCountInLS2024 = parties.length;
 
-const partyInLS2024 = parties.length;
+const notaInLS2024 = {...partyWiseData['None of the Above']};
+delete partyWiseData['None of the Above']
+const independentCandidateData = {...partyWiseData['Independent']};
+delete partyWiseData['Independent']
 
-saveData({ partyInLS2024, totalVoteCountInLS2024, totalCandidateInLS2024, constituency,constituencyWise, partyWiseData }, 'statistics.json');
+if(Object.keys(partyWiseData).length !== partyCountInLS2024) {
+    throw new Error('Mismatch in Party count')
+} 
+
+saveData({ partyCountInLS2024, totalVoteCountInLS2024, totalCandidateInLS2024, constituency, constituencyWise,notaInLS2024,independentCandidateData, partyWiseData }, 'statistics.json');

@@ -1,4 +1,8 @@
 {
+  "partyInLS2024": 744,
+  "totalVoteCountInLS2024": 645363445,
+  "totalCandidateInLS2024": 8360,
+  "constituency": 543,
   "constituencyWise": {
     "Anakapalle(5)": 1325332,
     "Rajahmundry(8)": 1325297,
@@ -544,3738 +548,4482 @@
     "BARAMULLA(1)": 1033900,
     "Ladakh(1)": 135524
   },
-  "total": 645363445,
-  "constituency": 543,
-  "partyWiseTotalVote": {
+  "partyWiseData": {
     "Bharatiya Janata Party": {
       "EVM Votes": 234613216,
       "Postal Votes": 1360719,
-      "Total Votes": 235973935
+      "Total Votes": 235973935,
+      "Total Candidate": 441
     },
     "Yuvajana Sramika Rythu Congress Party": {
       "EVM Votes": 13174874,
       "Postal Votes": 141165,
-      "Total Votes": 13316039
+      "Total Votes": 13316039,
+      "Total Candidate": 25
     },
     "Indian National Congress": {
       "EVM Votes": 135910535,
       "Postal Votes": 848529,
-      "Total Votes": 136759064
+      "Total Votes": 136759064,
+      "Total Candidate": 328
     },
     "Bahujan Samaj Party": {
       "EVM Votes": 13105155,
       "Postal Votes": 48663,
-      "Total Votes": 13153818
+      "Total Votes": 13153818,
+      "Total Candidate": 488
     },
     "Independent": {
       "EVM Votes": 17755186,
       "Postal Votes": 89256,
-      "Total Votes": 17844442
+      "Total Votes": 17844442,
+      "Total Candidate": 3920
     },
     "Dalita Bahujana Party": {
       "EVM Votes": 10249,
       "Postal Votes": 62,
-      "Total Votes": 10311
+      "Total Votes": 10311,
+      "Total Candidate": 5
     },
     "Bharatha Chaitanya Yuvajana Party": {
       "EVM Votes": 17016,
       "Postal Votes": 157,
-      "Total Votes": 17173
+      "Total Votes": 17173,
+      "Total Candidate": 7
     },
     "Jai Bharat National Party": {
       "EVM Votes": 22261,
       "Postal Votes": 205,
-      "Total Votes": 22466
+      "Total Votes": 22466,
+      "Total Candidate": 14
     },
     "Pyramid Party of India": {
       "EVM Votes": 27791,
       "Postal Votes": 175,
-      "Total Votes": 27966
+      "Total Votes": 27966,
+      "Total Candidate": 26
     },
     "None of the Above": {
       "EVM Votes": 6324678,
       "Postal Votes": 47542,
-      "Total Votes": 6372220
+      "Total Votes": 6372220,
+      "Total Candidate": 542
     },
     "Navarang Congress Party": {
       "EVM Votes": 67155,
       "Postal Votes": 277,
-      "Total Votes": 67432
+      "Total Votes": 67432,
+      "Total Candidate": 17
     },
     "Rashtriya Praja Congress  (Secular)": {
       "EVM Votes": 14124,
       "Postal Votes": 95,
-      "Total Votes": 14219
+      "Total Votes": 14219,
+      "Total Candidate": 6
     },
     "Jaibhim Rao Bharat Party": {
       "EVM Votes": 15084,
       "Postal Votes": 81,
-      "Total Votes": 15165
+      "Total Votes": 15165,
+      "Total Candidate": 12
     },
     "Republican Party of India (A)": {
       "EVM Votes": 46007,
       "Postal Votes": 153,
-      "Total Votes": 46160
+      "Total Votes": 46160,
+      "Total Candidate": 23
     },
     "Gana Suraksha Party": {
       "EVM Votes": 176023,
       "Postal Votes": 3977,
-      "Total Votes": 180000
+      "Total Votes": 180000,
+      "Total Candidate": 11
     },
     "Arunachal Democratic Party": {
       "EVM Votes": 6419,
       "Postal Votes": 203,
-      "Total Votes": 6622
+      "Total Votes": 6622,
+      "Total Candidate": 1
     },
     "Bodoland Peoples Front": {
       "EVM Votes": 771098,
       "Postal Votes": 6472,
-      "Total Votes": 777570
+      "Total Votes": 777570,
+      "Total Candidate": 4
     },
     "Bharatheeya Jawan Kisan Party": {
       "EVM Votes": 77310,
       "Postal Votes": 794,
-      "Total Votes": 78104
+      "Total Votes": 78104,
+      "Total Candidate": 41
     },
     "Voters Party  International": {
       "EVM Votes": 63225,
       "Postal Votes": 271,
-      "Total Votes": 63496
+      "Total Votes": 63496,
+      "Total Candidate": 11
     },
     "Socialist Unity Centre Of India (COMMUNIST)": {
       "EVM Votes": 478584,
       "Postal Votes": 2413,
-      "Total Votes": 480997
+      "Total Votes": 480997,
+      "Total Candidate": 150
     },
     "Republican Party of India (Athawale)": {
       "EVM Votes": 154300,
       "Postal Votes": 1421,
-      "Total Votes": 155721
+      "Total Votes": 155721,
+      "Total Candidate": 10
     },
     "Bharatiya Gana Parishad": {
       "EVM Votes": 27355,
       "Postal Votes": 199,
-      "Total Votes": 27554
+      "Total Votes": 27554,
+      "Total Candidate": 5
     },
     "Rashtriya Ulama Council": {
       "EVM Votes": 13608,
       "Postal Votes": 49,
-      "Total Votes": 13657
+      "Total Votes": 13657,
+      "Total Candidate": 6
     },
     "Ekam Sanatan Bharat Dal": {
       "EVM Votes": 60753,
       "Postal Votes": 271,
-      "Total Votes": 61024
+      "Total Votes": 61024,
+      "Total Candidate": 19
     },
     "Bahujan Maha Party": {
       "EVM Votes": 76132,
       "Postal Votes": 122,
-      "Total Votes": 76254
+      "Total Votes": 76254,
+      "Total Candidate": 13
     },
     "Autonomous State Demand Committee": {
       "EVM Votes": 9561,
       "Postal Votes": 72,
-      "Total Votes": 9633
+      "Total Votes": 9633,
+      "Total Candidate": 1
     },
     "All India United Democratic Front": {
       "EVM Votes": 624305,
       "Postal Votes": 1649,
-      "Total Votes": 625954
+      "Total Votes": 625954,
+      "Total Candidate": 3
     },
     "Bangali Nabanirman Sena": {
       "EVM Votes": 2375,
       "Postal Votes": 35,
-      "Total Votes": 2410
+      "Total Votes": 2410,
+      "Total Candidate": 2
     },
     "All India Trinamool Congress": {
       "EVM Votes": 28101370,
       "Postal Votes": 112023,
-      "Total Votes": 28213393
+      "Total Votes": 28213393,
+      "Total Candidate": 48
     },
     "Asom Jana Morcha": {
       "EVM Votes": 9815,
       "Postal Votes": 80,
-      "Total Votes": 9895
+      "Total Votes": 9895,
+      "Total Candidate": 3
     },
     "Aam Aadmi Party": {
       "EVM Votes": 7118420,
       "Postal Votes": 29380,
-      "Total Votes": 7147800
+      "Total Votes": 7147800,
+      "Total Candidate": 22
     },
     "Communist Party of India": {
       "EVM Votes": 3132363,
       "Postal Votes": 24821,
-      "Total Votes": 3157184
+      "Total Votes": 3157184,
+      "Total Candidate": 30
     },
     "Assam Jatiya Parishad": {
       "EVM Votes": 412793,
       "Postal Votes": 1648,
-      "Total Votes": 414441
+      "Total Votes": 414441,
+      "Total Candidate": 1
     },
     "Viro Ke Vir Indian Party": {
       "EVM Votes": 75691,
       "Postal Votes": 250,
-      "Total Votes": 75941
+      "Total Votes": 75941,
+      "Total Candidate": 18
     },
     "Vikassheel Insaan Party": {
       "EVM Votes": 1182172,
       "Postal Votes": 5283,
-      "Total Votes": 1187455
+      "Total Votes": 1187455,
+      "Total Candidate": 3
     },
     "Rashtriya Jansambhavna Party": {
       "EVM Votes": 168462,
       "Postal Votes": 278,
-      "Total Votes": 168740
+      "Total Votes": 168740,
+      "Total Candidate": 19
     },
     "Prabuddha Republican Party": {
       "EVM Votes": 24281,
       "Postal Votes": 80,
-      "Total Votes": 24361
+      "Total Votes": 24361,
+      "Total Candidate": 9
     },
     "Bhartiya Sarthak Party": {
       "EVM Votes": 23570,
       "Postal Votes": 70,
-      "Total Votes": 23640
+      "Total Votes": 23640,
+      "Total Candidate": 6
     },
     "Rashtriya Janata Dal": {
       "EVM Votes": 10062033,
       "Postal Votes": 45369,
-      "Total Votes": 10107402
+      "Total Votes": 10107402,
+      "Total Candidate": 24
     },
     "Peoples Party of India (Democratic)": {
       "EVM Votes": 247103,
       "Postal Votes": 882,
-      "Total Votes": 247985
+      "Total Votes": 247985,
+      "Total Candidate": 79
     },
     "Akhil Bhartiya Parivar Party": {
       "EVM Votes": 109669,
       "Postal Votes": 541,
-      "Total Votes": 110210
+      "Total Votes": 110210,
+      "Total Candidate": 36
     },
     "All India Majlis-E-Ittehadul Muslimeen": {
       "EVM Votes": 1396394,
       "Postal Votes": 3821,
-      "Total Votes": 1400215
+      "Total Votes": 1400215,
+      "Total Candidate": 15
     },
     "Country Citizen Party": {
       "EVM Votes": 3667,
       "Postal Votes": 45,
-      "Total Votes": 3712
+      "Total Votes": 3712,
+      "Total Candidate": 4
     },
     "Samata Party": {
       "EVM Votes": 73130,
       "Postal Votes": 188,
-      "Total Votes": 73318
+      "Total Votes": 73318,
+      "Total Candidate": 22
     },
     "Loktantrik Lok Rajyam Party": {
       "EVM Votes": 4159,
       "Postal Votes": 10,
-      "Total Votes": 4169
+      "Total Votes": 4169,
+      "Total Candidate": 4
     },
     "Bharatiya Momin Front": {
       "EVM Votes": 10959,
       "Postal Votes": 13,
-      "Total Votes": 10972
+      "Total Votes": 10972,
+      "Total Candidate": 3
     },
     "The National Road Map Party of India": {
       "EVM Votes": 17092,
       "Postal Votes": 34,
-      "Total Votes": 17126
+      "Total Votes": 17126,
+      "Total Candidate": 4
     },
     "Mithilanchal Mukti Morcha": {
       "EVM Votes": 18018,
       "Postal Votes": 7,
-      "Total Votes": 18025
+      "Total Votes": 18025,
+      "Total Candidate": 1
     },
     "Jantantra Awaj Party": {
       "EVM Votes": 14176,
       "Postal Votes": 42,
-      "Total Votes": 14218
+      "Total Votes": 14218,
+      "Total Candidate": 6
     },
     "Wazib Adhikar Party": {
       "EVM Votes": 16482,
       "Postal Votes": 24,
-      "Total Votes": 16506
+      "Total Votes": 16506,
+      "Total Candidate": 3
     },
     "Bajjikanchal Vikas Party": {
       "EVM Votes": 7741,
       "Postal Votes": 6,
-      "Total Votes": 7747
+      "Total Votes": 7747,
+      "Total Candidate": 2
     },
     "Indian National League": {
       "EVM Votes": 9878,
       "Postal Votes": 40,
-      "Total Votes": 9918
+      "Total Votes": 9918,
+      "Total Candidate": 4
     },
     "The Agrani Party": {
       "EVM Votes": 1840,
       "Postal Votes": 3,
-      "Total Votes": 1843
+      "Total Votes": 1843,
+      "Total Candidate": 1
     },
     "Apna Kisan Party": {
       "EVM Votes": 10532,
       "Postal Votes": 6,
-      "Total Votes": 10538
+      "Total Votes": 10538,
+      "Total Candidate": 2
     },
     "Janhit Kisan Party": {
       "EVM Votes": 5025,
       "Postal Votes": 5,
-      "Total Votes": 5030
+      "Total Votes": 5030,
+      "Total Candidate": 1
     },
     "Bharatiya Ekta Dal": {
       "EVM Votes": 1699,
       "Postal Votes": 5,
-      "Total Votes": 1704
+      "Total Votes": 1704,
+      "Total Candidate": 1
     },
     "Bhartiya Lok Chetna Party": {
       "EVM Votes": 5835,
       "Postal Votes": 17,
-      "Total Votes": 5852
+      "Total Votes": 5852,
+      "Total Candidate": 3
     },
     "Subhashwadi Bhartiya Samajwadi Party (Subhas Party)": {
       "EVM Votes": 6675,
       "Postal Votes": 24,
-      "Total Votes": 6699
+      "Total Votes": 6699,
+      "Total Candidate": 5
     },
     "Jagrook Janta Party": {
       "EVM Votes": 21446,
       "Postal Votes": 120,
-      "Total Votes": 21566
+      "Total Votes": 21566,
+      "Total Candidate": 6
     },
     "Janta Raj Vikas Party": {
       "EVM Votes": 937,
       "Postal Votes": 2,
-      "Total Votes": 939
+      "Total Votes": 939,
+      "Total Candidate": 1
     },
     "Karpoori Janta Dal": {
       "EVM Votes": 16453,
       "Postal Votes": 59,
-      "Total Votes": 16512
+      "Total Votes": 16512,
+      "Total Candidate": 3
     },
     "Loktantrik Samajwadi Party": {
       "EVM Votes": 7539,
       "Postal Votes": 15,
-      "Total Votes": 7554
+      "Total Votes": 7554,
+      "Total Candidate": 2
     },
     "Akhand Bharat Janpriya Party": {
       "EVM Votes": 1715,
       "Postal Votes": 1,
-      "Total Votes": 1716
+      "Total Votes": 1716,
+      "Total Candidate": 1
     },
     "Bharatiya Jan Kranti Dal (Democratic)": {
       "EVM Votes": 11903,
       "Postal Votes": 11,
-      "Total Votes": 11914
+      "Total Votes": 11914,
+      "Total Candidate": 2
     },
     "Bharat Jan Jagran Dal": {
       "EVM Votes": 7727,
       "Postal Votes": 9,
-      "Total Votes": 7736
+      "Total Votes": 7736,
+      "Total Candidate": 1
     },
     "Bhagidari Party(P)": {
       "EVM Votes": 51884,
       "Postal Votes": 94,
-      "Total Votes": 51978
+      "Total Votes": 51978,
+      "Total Candidate": 15
     },
     "Revolutionary Goans Party": {
       "EVM Votes": 64178,
       "Postal Votes": 400,
-      "Total Votes": 64578
+      "Total Votes": 64578,
+      "Total Candidate": 2
     },
     "Rashtriya Power Party": {
       "EVM Votes": 2087,
       "Postal Votes": 14,
-      "Total Votes": 2101
+      "Total Votes": 2101,
+      "Total Candidate": 1
     },
     "Hindvi Swarajyay Dal": {
       "EVM Votes": 1560,
       "Postal Votes": 13,
-      "Total Votes": 1573
+      "Total Votes": 1573,
+      "Total Candidate": 1
     },
     "Gujarat Sarva Samaj Party": {
       "EVM Votes": 4150,
       "Postal Votes": 61,
-      "Total Votes": 4211
+      "Total Votes": 4211,
+      "Total Candidate": 2
     },
     "Sarva Samaj Janata Party": {
       "EVM Votes": 2369,
       "Postal Votes": 10,
-      "Total Votes": 2379
+      "Total Votes": 2379,
+      "Total Candidate": 2
     },
     "Right to Recall Party": {
       "EVM Votes": 57701,
       "Postal Votes": 323,
-      "Total Votes": 58024
+      "Total Votes": 58024,
+      "Total Candidate": 33
     },
     "Rashtriya Samaj Paksha": {
       "EVM Votes": 518107,
       "Postal Votes": 3639,
-      "Total Votes": 521746
+      "Total Votes": 521746,
+      "Total Candidate": 18
     },
     "Social Democratic Party Of India": {
       "EVM Votes": 42290,
       "Postal Votes": 175,
-      "Total Votes": 42465
+      "Total Votes": 42465,
+      "Total Candidate": 16
     },
     "Akhila Vijaya Party": {
       "EVM Votes": 3866,
       "Postal Votes": 16,
-      "Total Votes": 3882
+      "Total Votes": 3882,
+      "Total Candidate": 1
     },
     "Rashtra Nirman Party": {
       "EVM Votes": 10873,
       "Postal Votes": 91,
-      "Total Votes": 10964
+      "Total Votes": 10964,
+      "Total Candidate": 6
     },
     "Log Party": {
       "EVM Votes": 20052,
       "Postal Votes": 68,
-      "Total Votes": 20120
+      "Total Votes": 20120,
+      "Total Candidate": 10
     },
     "Gunj Satya Ni Janata Party": {
       "EVM Votes": 7686,
       "Postal Votes": 75,
-      "Total Votes": 7761
+      "Total Votes": 7761,
+      "Total Candidate": 3
     },
     "Bhartiya Jan Parishad": {
       "EVM Votes": 3898,
       "Postal Votes": 122,
-      "Total Votes": 4020
+      "Total Votes": 4020,
+      "Total Candidate": 3
     },
     "Insaniyat Party": {
       "EVM Votes": 3692,
       "Postal Votes": 98,
-      "Total Votes": 3790
+      "Total Votes": 3790,
+      "Total Candidate": 3
     },
     "Prajatantra Aadhar Party": {
       "EVM Votes": 2404,
       "Postal Votes": 25,
-      "Total Votes": 2429
+      "Total Votes": 2429,
+      "Total Candidate": 2
     },
     "Swatantrata Abhivyakti Party": {
       "EVM Votes": 12689,
       "Postal Votes": 52,
-      "Total Votes": 12741
+      "Total Votes": 12741,
+      "Total Candidate": 4
     },
     "Swaraj Kranti Party": {
       "EVM Votes": 898,
       "Postal Votes": 11,
-      "Total Votes": 909
+      "Total Votes": 909,
+      "Total Candidate": 1
     },
     "Aadi Bharat Party": {
       "EVM Votes": 722,
       "Postal Votes": 20,
-      "Total Votes": 742
+      "Total Votes": 742,
+      "Total Candidate": 1
     },
     "Youth India Peace Party": {
       "EVM Votes": 642,
       "Postal Votes": 7,
-      "Total Votes": 649
+      "Total Votes": 649,
+      "Total Candidate": 1
     },
     "Gujarat Loktantra Party": {
       "EVM Votes": 2443,
       "Postal Votes": 15,
-      "Total Votes": 2458
+      "Total Votes": 2458,
+      "Total Candidate": 1
     },
     "Democratic Bharatiya Samaj Party": {
       "EVM Votes": 8420,
       "Postal Votes": 52,
-      "Total Votes": 8472
+      "Total Votes": 8472,
+      "Total Candidate": 5
     },
     "Jan Sewa Driver Party": {
       "EVM Votes": 9096,
       "Postal Votes": 39,
-      "Total Votes": 9135
+      "Total Votes": 9135,
+      "Total Candidate": 6
     },
     "New India United Party": {
       "EVM Votes": 8467,
       "Postal Votes": 75,
-      "Total Votes": 8542
+      "Total Votes": 8542,
+      "Total Candidate": 3
     },
     "Mission All India Independent Justice Party": {
       "EVM Votes": 948,
       "Postal Votes": 12,
-      "Total Votes": 960
+      "Total Votes": 960,
+      "Total Candidate": 1
     },
     "Samajwadi Party": {
       "EVM Votes": 29466107,
       "Postal Votes": 83274,
-      "Total Votes": 29549381
+      "Total Votes": 29549381,
+      "Total Candidate": 71
     },
     "Rashtriya Mahaswaraj Bhumi Party": {
       "EVM Votes": 4727,
       "Postal Votes": 37,
-      "Total Votes": 4764
+      "Total Votes": 4764,
+      "Total Candidate": 3
     },
     "Global Republican Party": {
       "EVM Votes": 7668,
       "Postal Votes": 66,
-      "Total Votes": 7734
+      "Total Votes": 7734,
+      "Total Candidate": 5
     },
     "Aapki Awaaz Party": {
       "EVM Votes": 6039,
       "Postal Votes": 48,
-      "Total Votes": 6087
+      "Total Votes": 6087,
+      "Total Candidate": 1
     },
     "Garib Kalyan Party": {
       "EVM Votes": 3938,
       "Postal Votes": 41,
-      "Total Votes": 3979
+      "Total Votes": 3979,
+      "Total Candidate": 3
     },
     "Bhartiya Jan Nayak Party": {
       "EVM Votes": 1812,
       "Postal Votes": 26,
-      "Total Votes": 1838
+      "Total Votes": 1838,
+      "Total Candidate": 1
     },
     "Dhanwan Bharat Party": {
       "EVM Votes": 8350,
       "Postal Votes": 39,
-      "Total Votes": 8389
+      "Total Votes": 8389,
+      "Total Candidate": 1
     },
     "Aam Janmat Party,": {
       "EVM Votes": 3108,
       "Postal Votes": 97,
-      "Total Votes": 3205
+      "Total Votes": 3205,
+      "Total Candidate": 1
     },
     "Bharatiya National Janata Dal": {
       "EVM Votes": 9219,
       "Postal Votes": 39,
-      "Total Votes": 9258
+      "Total Votes": 9258,
+      "Total Candidate": 3
     },
     "Saath Sahakar Vikas Party": {
       "EVM Votes": 2667,
       "Postal Votes": 6,
-      "Total Votes": 2673
+      "Total Votes": 2673,
+      "Total Candidate": 1
     },
     "Hindrashtra Sangh": {
       "EVM Votes": 8912,
       "Postal Votes": 58,
-      "Total Votes": 8970
+      "Total Votes": 8970,
+      "Total Candidate": 4
     },
     "Satyawadi Rakshak Party": {
       "EVM Votes": 643,
       "Postal Votes": 14,
-      "Total Votes": 657
+      "Total Votes": 657,
+      "Total Candidate": 1
     },
     "Malwa Congress": {
       "EVM Votes": 13841,
       "Postal Votes": 84,
-      "Total Votes": 13925
+      "Total Votes": 13925,
+      "Total Candidate": 2
     },
     "Bharatiya Bahujan Congress": {
       "EVM Votes": 9110,
       "Postal Votes": 55,
-      "Total Votes": 9165
+      "Total Votes": 9165,
+      "Total Candidate": 2
     },
     "Bharat Adivasi Party": {
       "EVM Votes": 1248282,
       "Postal Votes": 8774,
-      "Total Votes": 1257056
+      "Total Votes": 1257056,
+      "Total Candidate": 22
     },
     "Sardar Vallabhbhai Patel Party": {
       "EVM Votes": 5112,
       "Postal Votes": 40,
-      "Total Votes": 5152
+      "Total Votes": 5152,
+      "Total Candidate": 4
     },
     "Bahujan Republican  Socialist Party": {
       "EVM Votes": 29494,
       "Postal Votes": 125,
-      "Total Votes": 29619
+      "Total Votes": 29619,
+      "Total Candidate": 18
     },
     "Indian National Lok Dal": {
       "EVM Votes": 226052,
       "Postal Votes": 923,
-      "Total Votes": 226975
+      "Total Votes": 226975,
+      "Total Candidate": 7
     },
     "Jannayak Janta Party": {
       "EVM Votes": 113122,
       "Postal Votes": 705,
-      "Total Votes": 113827
+      "Total Votes": 113827,
+      "Total Candidate": 10
     },
     "Rashtriya Janshakti Party(Eklavya)": {
       "EVM Votes": 3251,
       "Postal Votes": 12,
-      "Total Votes": 3263
+      "Total Votes": 3263,
+      "Total Candidate": 1
     },
     "Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)": {
       "EVM Votes": 519209,
       "Postal Votes": 2540,
-      "Total Votes": 521749
+      "Total Votes": 521749,
+      "Total Candidate": 14
     },
     "Bharatiya Asha Party": {
       "EVM Votes": 4280,
       "Postal Votes": 20,
-      "Total Votes": 4300
+      "Total Votes": 4300,
+      "Total Candidate": 5
     },
     "Rashtriya Garib Dal": {
       "EVM Votes": 5075,
       "Postal Votes": 30,
-      "Total Votes": 5105
+      "Total Votes": 5105,
+      "Total Candidate": 4
     },
     "Nationalist Congress Party – Sharadchandra Pawar": {
       "EVM Votes": 5902987,
       "Postal Votes": 18175,
-      "Total Votes": 5921162
+      "Total Votes": 5921162,
+      "Total Candidate": 12
     },
     "Samst Samaj Party": {
       "EVM Votes": 2898,
       "Postal Votes": 6,
-      "Total Votes": 2904
+      "Total Votes": 2904,
+      "Total Candidate": 1
     },
     "Rashtrawadi Janlok Party (Satya)": {
       "EVM Votes": 11935,
       "Postal Votes": 114,
-      "Total Votes": 12049
+      "Total Votes": 12049,
+      "Total Candidate": 5
     },
     "Bhartiya Shakti Chetna Party": {
       "EVM Votes": 114736,
       "Postal Votes": 288,
-      "Total Votes": 115024
+      "Total Votes": 115024,
+      "Total Candidate": 40
     },
     "Swayam Shashan Party": {
       "EVM Votes": 1402,
       "Postal Votes": 6,
-      "Total Votes": 1408
+      "Total Votes": 1408,
+      "Total Candidate": 1
     },
     "Jan Sewak Kranti Party": {
       "EVM Votes": 1120,
       "Postal Votes": 0,
-      "Total Votes": 1120
+      "Total Votes": 1120,
+      "Total Candidate": 1
     },
     "Rashtriya Lokswaraj Party": {
       "EVM Votes": 1630,
       "Postal Votes": 11,
-      "Total Votes": 1641
+      "Total Votes": 1641,
+      "Total Candidate": 2
     },
     "Jan Shakti Dal": {
       "EVM Votes": 2951,
       "Postal Votes": 4,
-      "Total Votes": 2955
+      "Total Votes": 2955,
+      "Total Candidate": 1
     },
     "Adim Bhartiya Dal": {
       "EVM Votes": 1584,
       "Postal Votes": 0,
-      "Total Votes": 1584
+      "Total Votes": 1584,
+      "Total Candidate": 1
     },
     "AARAKSHAN VIRODHI PARTY": {
       "EVM Votes": 1439,
       "Postal Votes": 5,
-      "Total Votes": 1444
+      "Total Votes": 1444,
+      "Total Candidate": 1
     },
     "Rashtriya Vikas Party": {
       "EVM Votes": 1237,
       "Postal Votes": 3,
-      "Total Votes": 1240
+      "Total Votes": 1240,
+      "Total Candidate": 1
     },
     "Buland Bharat Party": {
       "EVM Votes": 953,
       "Postal Votes": 2,
-      "Total Votes": 955
+      "Total Votes": 955,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Kisan Majdoor Party": {
       "EVM Votes": 919,
       "Postal Votes": 5,
-      "Total Votes": 924
+      "Total Votes": 924,
+      "Total Candidate": 1
     },
     "Kisan Mazdoor Sangharsh Party": {
       "EVM Votes": 17226,
       "Postal Votes": 110,
-      "Total Votes": 17336
+      "Total Votes": 17336,
+      "Total Candidate": 6
     },
     "Samrat Mihir Bhoj Samaj Party": {
       "EVM Votes": 1405,
       "Postal Votes": 7,
-      "Total Votes": 1412
+      "Total Votes": 1412,
+      "Total Candidate": 2
     },
     "Loktantrik Janshakti Party": {
       "EVM Votes": 2146,
       "Postal Votes": 45,
-      "Total Votes": 2191
+      "Total Votes": 2191,
+      "Total Candidate": 4
     },
     "Himachal Janta Party": {
       "EVM Votes": 1766,
       "Postal Votes": 59,
-      "Total Votes": 1825
+      "Total Votes": 1825,
+      "Total Candidate": 2
     },
     "Rashtriya Devbhumi Party": {
       "EVM Votes": 9627,
       "Postal Votes": 154,
-      "Total Votes": 9781
+      "Total Votes": 9781,
+      "Total Candidate": 4
     },
     "Rashtriya Samaj Dal (R)": {
       "EVM Votes": 10792,
       "Postal Votes": 85,
-      "Total Votes": 10877
+      "Total Votes": 10877,
+      "Total Candidate": 9
     },
     "Karnataka Rashtra Samithi": {
       "EVM Votes": 51205,
       "Postal Votes": 324,
-      "Total Votes": 51529
+      "Total Votes": 51529,
+      "Total Candidate": 28
     },
     "Uttama Prajaakeeya Party": {
       "EVM Votes": 40187,
       "Postal Votes": 304,
-      "Total Votes": 40491
+      "Total Votes": 40491,
+      "Total Candidate": 20
     },
     "Tipu Sultan Party": {
       "EVM Votes": 4518,
       "Postal Votes": 29,
-      "Total Votes": 4547
+      "Total Votes": 4547,
+      "Total Candidate": 4
     },
     "Raita Bharat Party": {
       "EVM Votes": 509,
       "Postal Votes": 9,
-      "Total Votes": 518
+      "Total Votes": 518,
+      "Total Candidate": 1
     },
     "Desh Prem Party": {
       "EVM Votes": 451,
       "Postal Votes": 3,
-      "Total Votes": 454
+      "Total Votes": 454,
+      "Total Candidate": 1
     },
     "Naki Bharatiya Ekta Party": {
       "EVM Votes": 12267,
       "Postal Votes": 32,
-      "Total Votes": 12299
+      "Total Votes": 12299,
+      "Total Candidate": 5
     },
     "Socialist Party (India)": {
       "EVM Votes": 19844,
       "Postal Votes": 96,
-      "Total Votes": 19940
+      "Total Votes": 19940,
+      "Total Candidate": 13
     },
     "Samajwadi Janata Party(Karnataka)": {
       "EVM Votes": 2306,
       "Postal Votes": 14,
-      "Total Votes": 2320
+      "Total Votes": 2320,
+      "Total Candidate": 4
     },
     "Indian Movement Party": {
       "EVM Votes": 1114,
       "Postal Votes": 3,
-      "Total Votes": 1117
+      "Total Votes": 1117,
+      "Total Candidate": 2
     },
     "Prahar Janshakti Party": {
       "EVM Votes": 90429,
       "Postal Votes": 330,
-      "Total Votes": 90759
+      "Total Votes": 90759,
+      "Total Candidate": 5
     },
     "Proutist Bloc, India": {
       "EVM Votes": 14079,
       "Postal Votes": 31,
-      "Total Votes": 14110
+      "Total Votes": 14110,
+      "Total Candidate": 6
     },
     "Indian Labour Party (Ambedkar Phule)": {
       "EVM Votes": 1712,
       "Postal Votes": 17,
-      "Total Votes": 1729
+      "Total Votes": 1729,
+      "Total Candidate": 4
     },
     "Bharatiya Prajagala Kalyana Paksha": {
       "EVM Votes": 2789,
       "Postal Votes": 27,
-      "Total Votes": 2816
+      "Total Votes": 2816,
+      "Total Candidate": 4
     },
     "Young Star Empowerment Party": {
       "EVM Votes": 1612,
       "Postal Votes": 4,
-      "Total Votes": 1616
+      "Total Votes": 1616,
+      "Total Candidate": 4
     },
     "Proutist Sarva Samaj": {
       "EVM Votes": 1049,
       "Postal Votes": 20,
-      "Total Votes": 1069
+      "Total Votes": 1069,
+      "Total Candidate": 1
     },
     "Janahitha Paksha": {
       "EVM Votes": 1109,
       "Postal Votes": 21,
-      "Total Votes": 1130
+      "Total Votes": 1130,
+      "Total Candidate": 2
     },
     "Karunada Sevakara Party": {
       "EVM Votes": 4152,
       "Postal Votes": 23,
-      "Total Votes": 4175
+      "Total Votes": 4175,
+      "Total Candidate": 3
     },
     "Kannada  Paksha": {
       "EVM Votes": 477,
       "Postal Votes": 0,
-      "Total Votes": 477
+      "Total Votes": 477,
+      "Total Candidate": 1
     },
     "National Maha Sabha Party": {
       "EVM Votes": 4163,
       "Postal Votes": 21,
-      "Total Votes": 4184
+      "Total Votes": 4184,
+      "Total Candidate": 4
     },
     "Karnataka Jantha Paksha": {
       "EVM Votes": 5475,
       "Postal Votes": 16,
-      "Total Votes": 5491
+      "Total Votes": 5491,
+      "Total Candidate": 2
     },
     "Karunaadu Party": {
       "EVM Votes": 4446,
       "Postal Votes": 35,
-      "Total Votes": 4481
+      "Total Votes": 4481,
+      "Total Candidate": 4
     },
     "Secular Democratic Congress": {
       "EVM Votes": 487,
       "Postal Votes": 3,
-      "Total Votes": 490
+      "Total Votes": 490,
+      "Total Candidate": 1
     },
     "Bahujan Bharat Party": {
       "EVM Votes": 32707,
       "Postal Votes": 163,
-      "Total Votes": 32870
+      "Total Votes": 32870,
+      "Total Candidate": 10
     },
     "Viduthalai Chiruthaigal Katchi": {
       "EVM Votes": 984131,
       "Postal Votes": 6106,
-      "Total Votes": 990237
+      "Total Votes": 990237,
+      "Total Candidate": 13
     },
     "Gareeb Aadmi Party": {
       "EVM Votes": 2418,
       "Postal Votes": 7,
-      "Total Votes": 2425
+      "Total Votes": 2425,
+      "Total Candidate": 4
     },
     "Rani Chennamma Party": {
       "EVM Votes": 770,
       "Postal Votes": 1,
-      "Total Votes": 771
+      "Total Votes": 771,
+      "Total Candidate": 2
     },
     "Voters Independent Party": {
       "EVM Votes": 594,
       "Postal Votes": 7,
-      "Total Votes": 601
+      "Total Votes": 601,
+      "Total Candidate": 1
     },
     "Republican Party of India (Karnataka)": {
       "EVM Votes": 2002,
       "Postal Votes": 16,
-      "Total Votes": 2018
+      "Total Votes": 2018,
+      "Total Candidate": 3
     },
     "Karnataka Karmikara Paksha": {
       "EVM Votes": 314,
       "Postal Votes": 0,
-      "Total Votes": 314
+      "Total Votes": 314,
+      "Total Candidate": 1
     },
     "Kannada Chalavali Vatal Paksha": {
       "EVM Votes": 1857,
       "Postal Votes": 10,
-      "Total Votes": 1867
+      "Total Votes": 1867,
+      "Total Candidate": 1
     },
     "Navabharath Sena": {
       "EVM Votes": 2885,
       "Postal Votes": 13,
-      "Total Votes": 2898
+      "Total Votes": 2898,
+      "Total Candidate": 3
     },
     "Communist Party of India  (Marxist)": {
       "EVM Votes": 11237709,
       "Postal Votes": 104844,
-      "Total Votes": 11342553
+      "Total Votes": 11342553,
+      "Total Candidate": 52
     },
     "Digvijaya Bharatha Party": {
       "EVM Votes": 843,
       "Postal Votes": 7,
-      "Total Votes": 850
+      "Total Votes": 850,
+      "Total Candidate": 1
     },
     "New Labour Party": {
       "EVM Votes": 812,
       "Postal Votes": 7,
-      "Total Votes": 819
+      "Total Votes": 819,
+      "Total Candidate": 1
     },
     "Aazad Samaj Party (Kanshi Ram)": {
       "EVM Votes": 690612,
       "Postal Votes": 1208,
-      "Total Votes": 691820
+      "Total Votes": 691820,
+      "Total Candidate": 26
     },
     "Parivartan Party of India": {
       "EVM Votes": 1675,
       "Postal Votes": 11,
-      "Total Votes": 1686
+      "Total Votes": 1686,
+      "Total Candidate": 2
     },
     "Rashtra Uday Party": {
       "EVM Votes": 30015,
       "Postal Votes": 58,
-      "Total Votes": 30073
+      "Total Votes": 30073,
+      "Total Candidate": 9
     },
     "Parivartan Samaj Party": {
       "EVM Votes": 12285,
       "Postal Votes": 19,
-      "Total Votes": 12304
+      "Total Votes": 12304,
+      "Total Candidate": 4
     },
     "Vikas India Party": {
       "EVM Votes": 1041,
       "Postal Votes": 13,
-      "Total Votes": 1054
+      "Total Votes": 1054,
+      "Total Candidate": 2
     },
     "Mahanwadi Party": {
       "EVM Votes": 12348,
       "Postal Votes": 16,
-      "Total Votes": 12364
+      "Total Votes": 12364,
+      "Total Candidate": 3
     },
     "Rashtriya Jansena Party": {
       "EVM Votes": 983,
       "Postal Votes": 0,
-      "Total Votes": 983
+      "Total Votes": 983,
+      "Total Candidate": 1
     },
     "Pichhara Samaj Party United": {
       "EVM Votes": 947,
       "Postal Votes": 5,
-      "Total Votes": 952
+      "Total Votes": 952,
+      "Total Candidate": 1
     },
     "Adarsh Nyay Rakshak Party": {
       "EVM Votes": 5475,
       "Postal Votes": 9,
-      "Total Votes": 5484
+      "Total Votes": 5484,
+      "Total Candidate": 1
     },
     "Gondvana Gantantra Party": {
       "EVM Votes": 312057,
       "Postal Votes": 940,
-      "Total Votes": 312997
+      "Total Votes": 312997,
+      "Total Candidate": 23
     },
     "All India Forward Bloc": {
       "EVM Votes": 287818,
       "Postal Votes": 2123,
-      "Total Votes": 289941
+      "Total Votes": 289941,
+      "Total Candidate": 33
     },
     "Rashtriya Jansanchar Dal": {
       "EVM Votes": 6593,
       "Postal Votes": 24,
-      "Total Votes": 6617
+      "Total Votes": 6617,
+      "Total Candidate": 3
     },
     "Indian Peoples Adhikar Party": {
       "EVM Votes": 4036,
       "Postal Votes": 5,
-      "Total Votes": 4041
+      "Total Votes": 4041,
+      "Total Candidate": 2
     },
     "Bahujan Dravida Party": {
       "EVM Votes": 21304,
       "Postal Votes": 84,
-      "Total Votes": 21388
+      "Total Votes": 21388,
+      "Total Candidate": 14
     },
     "Manviya Bharat Party": {
       "EVM Votes": 2078,
       "Postal Votes": 4,
-      "Total Votes": 2082
+      "Total Votes": 2082,
+      "Total Candidate": 1
     },
     "Akhil Bharatiya Hind Kranti Party": {
       "EVM Votes": 1254,
       "Postal Votes": 5,
-      "Total Votes": 1259
+      "Total Votes": 1259,
+      "Total Candidate": 1
     },
     "Bharatiya Jan Morcha Party": {
       "EVM Votes": 935,
       "Postal Votes": 10,
-      "Total Votes": 945
+      "Total Votes": 945,
+      "Total Candidate": 1
     },
     "Nyaydharmsabha": {
       "EVM Votes": 6592,
       "Postal Votes": 15,
-      "Total Votes": 6607
+      "Total Votes": 6607,
+      "Total Candidate": 4
     },
     "Sapaks Party": {
       "EVM Votes": 5130,
       "Postal Votes": 19,
-      "Total Votes": 5149
+      "Total Votes": 5149,
+      "Total Candidate": 2
     },
     "Rashtravadi Bharat Party": {
       "EVM Votes": 5688,
       "Postal Votes": 14,
-      "Total Votes": 5702
+      "Total Votes": 5702,
+      "Total Candidate": 2
     },
     "Rashtriya Hind Ekta Dal": {
       "EVM Votes": 1799,
       "Postal Votes": 7,
-      "Total Votes": 1806
+      "Total Votes": 1806,
+      "Total Candidate": 1
     },
     "Aapka Gantantra Party": {
       "EVM Votes": 2430,
       "Postal Votes": 2,
-      "Total Votes": 2432
+      "Total Votes": 2432,
+      "Total Candidate": 1
     },
     "Chhattisgarh Vikas Ganga Rashtriya Party": {
       "EVM Votes": 6194,
       "Postal Votes": 33,
-      "Total Votes": 6227
+      "Total Votes": 6227,
+      "Total Candidate": 4
     },
     "Aadim Samaj Party": {
       "EVM Votes": 1099,
       "Postal Votes": 1,
-      "Total Votes": 1100
+      "Total Votes": 1100,
+      "Total Candidate": 1
     },
     "Bahujan Awam Party": {
       "EVM Votes": 3978,
       "Postal Votes": 11,
-      "Total Votes": 3989
+      "Total Votes": 3989,
+      "Total Candidate": 2
     },
     "Smart Indians Party": {
       "EVM Votes": 2499,
       "Postal Votes": 11,
-      "Total Votes": 2510
+      "Total Votes": 2510,
+      "Total Candidate": 1
     },
     "Madhya Pradesh Jan Vikas Party": {
       "EVM Votes": 1929,
       "Postal Votes": 3,
-      "Total Votes": 1932
+      "Total Votes": 1932,
+      "Total Candidate": 1
     },
     "Rashtriya Gondvana Party": {
       "EVM Votes": 11426,
       "Postal Votes": 20,
-      "Total Votes": 11446
+      "Total Votes": 11446,
+      "Total Candidate": 2
     },
     "Ahinsa Samaj Party": {
       "EVM Votes": 1695,
       "Postal Votes": 3,
-      "Total Votes": 1698
+      "Total Votes": 1698,
+      "Total Candidate": 1
     },
     "Rashtra Samarpan Party": {
       "EVM Votes": 3195,
       "Postal Votes": 10,
-      "Total Votes": 3205
+      "Total Votes": 3205,
+      "Total Candidate": 3
     },
     "Bharatiya Yuva Jan Ekta Party": {
       "EVM Votes": 27880,
       "Postal Votes": 89,
-      "Total Votes": 27969
+      "Total Votes": 27969,
+      "Total Candidate": 9
     },
     "Jai Prakash Janata Dal": {
       "EVM Votes": 14435,
       "Postal Votes": 42,
-      "Total Votes": 14477
+      "Total Votes": 14477,
+      "Total Candidate": 4
     },
     "Public Political Party": {
       "EVM Votes": 5030,
       "Postal Votes": 24,
-      "Total Votes": 5054
+      "Total Votes": 5054,
+      "Total Candidate": 6
     },
     "Chhatrapati Shivaji Bhartiya Garib Party": {
       "EVM Votes": 787,
       "Postal Votes": 3,
-      "Total Votes": 790
+      "Total Votes": 790,
+      "Total Candidate": 1
     },
     "Moulik Adhikar Party": {
       "EVM Votes": 25463,
       "Postal Votes": 27,
-      "Total Votes": 25490
+      "Total Votes": 25490,
+      "Total Candidate": 10
     },
     "Manav Samadhan Party": {
       "EVM Votes": 621,
       "Postal Votes": 1,
-      "Total Votes": 622
+      "Total Votes": 622,
+      "Total Candidate": 1
     },
     "Kranti Janshakti Party": {
       "EVM Votes": 572,
       "Postal Votes": 3,
-      "Total Votes": 575
+      "Total Votes": 575,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Aarakshit Samaj Party": {
       "EVM Votes": 541,
       "Postal Votes": 3,
-      "Total Votes": 544
+      "Total Votes": 544,
+      "Total Candidate": 1
     },
     "Samata Samadhan Party": {
       "EVM Votes": 6597,
       "Postal Votes": 17,
-      "Total Votes": 6614
+      "Total Votes": 6614,
+      "Total Candidate": 1
     },
     "National World Leader Party": {
       "EVM Votes": 5051,
       "Postal Votes": 12,
-      "Total Votes": 5063
+      "Total Votes": 5063,
+      "Total Candidate": 1
     },
     "Lok Samaj Party": {
       "EVM Votes": 1292,
       "Postal Votes": 2,
-      "Total Votes": 1294
+      "Total Votes": 1294,
+      "Total Candidate": 1
     },
     "Sajag Samaj Party": {
       "EVM Votes": 1186,
       "Postal Votes": 5,
-      "Total Votes": 1191
+      "Total Votes": 1191,
+      "Total Candidate": 1
     },
     "Bhim Sena": {
       "EVM Votes": 25248,
       "Postal Votes": 98,
-      "Total Votes": 25346
+      "Total Votes": 25346,
+      "Total Candidate": 15
     },
     "Bhartiya Samajik Party": {
       "EVM Votes": 4503,
       "Postal Votes": 4,
-      "Total Votes": 4507
+      "Total Votes": 4507,
+      "Total Candidate": 1
     },
     "Akhand Bharat Samrajya Party": {
       "EVM Votes": 3929,
       "Postal Votes": 1,
-      "Total Votes": 3930
+      "Total Votes": 3930,
+      "Total Candidate": 1
     },
     "Janata Congress": {
       "EVM Votes": 8851,
       "Postal Votes": 49,
-      "Total Votes": 8900
+      "Total Votes": 8900,
+      "Total Candidate": 2
     },
     "Jan Sangh Party": {
       "EVM Votes": 7042,
       "Postal Votes": 18,
-      "Total Votes": 7060
+      "Total Votes": 7060,
+      "Total Candidate": 3
     },
     "Rashtriya Jan Awaz Party": {
       "EVM Votes": 9295,
       "Postal Votes": 4,
-      "Total Votes": 9299
+      "Total Votes": 9299,
+      "Total Candidate": 1
     },
     "Aam Janta Party (India)": {
       "EVM Votes": 14654,
       "Postal Votes": 75,
-      "Total Votes": 14729
+      "Total Votes": 14729,
+      "Total Candidate": 7
     },
     "Swatantra Kisan Party": {
       "EVM Votes": 3831,
       "Postal Votes": 18,
-      "Total Votes": 3849
+      "Total Votes": 3849,
+      "Total Candidate": 1
     },
     "Shiv Sena (Uddhav Balasaheb Thackrey)": {
       "EVM Votes": 9522797,
       "Postal Votes": 44982,
-      "Total Votes": 9567779
+      "Total Votes": 9567779,
+      "Total Candidate": 21
     },
     "Vanchit Bahujan  Aaghadi": {
       "EVM Votes": 1576638,
       "Postal Votes": 6217,
-      "Total Votes": 1582855
+      "Total Votes": 1582855,
+      "Total Candidate": 38
     },
     "Sainik Samaj Party": {
       "EVM Votes": 15814,
       "Postal Votes": 226,
-      "Total Votes": 16040
+      "Total Votes": 16040,
+      "Total Candidate": 8
     },
     "Republican Party of India (Social)": {
       "EVM Votes": 2805,
       "Postal Votes": 13,
-      "Total Votes": 2818
+      "Total Votes": 2818,
+      "Total Candidate": 2
     },
     "Jay Vidarbha Party": {
       "EVM Votes": 4907,
       "Postal Votes": 44,
-      "Total Votes": 4951
+      "Total Votes": 4951,
+      "Total Candidate": 4
     },
     "Azad Adhikar Sena": {
       "EVM Votes": 11916,
       "Postal Votes": 105,
-      "Total Votes": 12021
+      "Total Votes": 12021,
+      "Total Candidate": 5
     },
     "Janseva Gondwana Party": {
       "EVM Votes": 4562,
       "Postal Votes": 55,
-      "Total Votes": 4617
+      "Total Votes": 4617,
+      "Total Candidate": 3
     },
     "Desh Janhit Party": {
       "EVM Votes": 20396,
       "Postal Votes": 102,
-      "Total Votes": 20498
+      "Total Votes": 20498,
+      "Total Candidate": 11
     },
     "Minorities Democratic Party": {
       "EVM Votes": 8957,
       "Postal Votes": 21,
-      "Total Votes": 8978
+      "Total Votes": 8978,
+      "Total Candidate": 3
     },
     "Kunbi Bahujan Sawrajya Party": {
       "EVM Votes": 814,
       "Postal Votes": 3,
-      "Total Votes": 817
+      "Total Votes": 817,
+      "Total Candidate": 1
     },
     "Ambedkarite Party of India": {
       "EVM Votes": 131914,
       "Postal Votes": 530,
-      "Total Votes": 132444
+      "Total Votes": 132444,
+      "Total Candidate": 38
     },
     "Bahujan Vikas Aaghadi": {
       "EVM Votes": 254011,
       "Postal Votes": 506,
-      "Total Votes": 254517
+      "Total Votes": 254517,
+      "Total Candidate": 1
     },
     "Marxist Leninist Party of India (Red Flag)": {
       "EVM Votes": 7061,
       "Postal Votes": 24,
-      "Total Votes": 7085
+      "Total Votes": 7085,
+      "Total Candidate": 1
     },
     "Maharashtra Vikas Aghadi": {
       "EVM Votes": 20552,
       "Postal Votes": 169,
-      "Total Votes": 20721
+      "Total Votes": 20721,
+      "Total Candidate": 10
     },
     "Hindu Samaj Party": {
       "EVM Votes": 13645,
       "Postal Votes": 179,
-      "Total Votes": 13824
+      "Total Votes": 13824,
+      "Total Candidate": 7
     },
     "Bharatiya Mulnivasi Aazad Party": {
       "EVM Votes": 393,
       "Postal Votes": 3,
-      "Total Votes": 396
+      "Total Votes": 396,
+      "Total Candidate": 1
     },
     "Apni Prajahit Party": {
       "EVM Votes": 4086,
       "Postal Votes": 23,
-      "Total Votes": 4109
+      "Total Votes": 4109,
+      "Total Candidate": 4
     },
     "Bahujan Samaj Party  (Ambedkar)": {
       "EVM Votes": 9351,
       "Postal Votes": 40,
-      "Total Votes": 9391
+      "Total Votes": 9391,
+      "Total Candidate": 4
     },
     "Rashtriya Maratha Party": {
       "EVM Votes": 2964,
       "Postal Votes": 14,
-      "Total Votes": 2978
+      "Total Votes": 2978,
+      "Total Candidate": 3
     },
     "Bahujan Mukti Party": {
       "EVM Votes": 73455,
       "Postal Votes": 480,
-      "Total Votes": 73935
+      "Total Votes": 73935,
+      "Total Candidate": 28
     },
     "Biju Janata Dal": {
       "EVM Votes": 9382711,
       "Postal Votes": 30668,
-      "Total Votes": 9413379
+      "Total Votes": 9413379,
+      "Total Candidate": 21
     },
     "National Apni Party": {
       "EVM Votes": 16664,
       "Postal Votes": 35,
-      "Total Votes": 16699
+      "Total Votes": 16699,
+      "Total Candidate": 4
     },
     "Naba Bharata Nirmana Seva Party": {
       "EVM Votes": 18539,
       "Postal Votes": 40,
-      "Total Votes": 18579
+      "Total Votes": 18579,
+      "Total Candidate": 5
     },
     "Jharkhand Party": {
       "EVM Votes": 19321,
       "Postal Votes": 206,
-      "Total Votes": 19527
+      "Total Votes": 19527,
+      "Total Candidate": 5
     },
     "Kosal Janata Dal": {
       "EVM Votes": 1731,
       "Postal Votes": 4,
-      "Total Votes": 1735
+      "Total Votes": 1735,
+      "Total Candidate": 1
     },
     "Bharatiya Nyay-Adhikar Raksha Party": {
       "EVM Votes": 28096,
       "Postal Votes": 96,
-      "Total Votes": 28192
+      "Total Votes": 28192,
+      "Total Candidate": 11
     },
     "National Jan Dal": {
       "EVM Votes": 11072,
       "Postal Votes": 44,
-      "Total Votes": 11116
+      "Total Votes": 11116,
+      "Total Candidate": 3
     },
     "Paschimanchal Vikas Party": {
       "EVM Votes": 1662,
       "Postal Votes": 20,
-      "Total Votes": 1682
+      "Total Votes": 1682,
+      "Total Candidate": 1
     },
     "Rashtriya Manav Party": {
       "EVM Votes": 3901,
       "Postal Votes": 4,
-      "Total Votes": 3905
+      "Total Votes": 3905,
+      "Total Candidate": 2
     },
     "Manas Lokshakti Dal": {
       "EVM Votes": 20444,
       "Postal Votes": 6,
-      "Total Votes": 20450
+      "Total Votes": 20450,
+      "Total Candidate": 3
     },
     "AJSU Party": {
       "EVM Votes": 455423,
       "Postal Votes": 3254,
-      "Total Votes": 458677
+      "Total Votes": 458677,
+      "Total Candidate": 3
     },
     "Jharkhand Mukti Morcha": {
       "EVM Votes": 2627488,
       "Postal Votes": 25467,
-      "Total Votes": 2652955
+      "Total Votes": 2652955,
+      "Total Candidate": 6
     },
     "Krupaa Party": {
       "EVM Votes": 5240,
       "Postal Votes": 6,
-      "Total Votes": 5246
+      "Total Votes": 5246,
+      "Total Candidate": 2
     },
     "Janta Darbar Party": {
       "EVM Votes": 954,
       "Postal Votes": 2,
-      "Total Votes": 956
+      "Total Votes": 956,
+      "Total Candidate": 1
     },
     "Utkal Samaj": {
       "EVM Votes": 2277,
       "Postal Votes": 8,
-      "Total Votes": 2285
+      "Total Votes": 2285,
+      "Total Candidate": 2
     },
     "Samruddha Odisha": {
       "EVM Votes": 7063,
       "Postal Votes": 24,
-      "Total Votes": 7087
+      "Total Votes": 7087,
+      "Total Candidate": 3
     },
     "Kalinga Sena": {
       "EVM Votes": 4265,
       "Postal Votes": 19,
-      "Total Votes": 4284
+      "Total Votes": 4284,
+      "Total Candidate": 2
     },
     "Odisha Janata Party": {
       "EVM Votes": 2438,
       "Postal Votes": 4,
-      "Total Votes": 2442
+      "Total Votes": 2442,
+      "Total Candidate": 2
     },
     "Supreme Zero Party of Bharat": {
       "EVM Votes": 1437,
       "Postal Votes": 4,
-      "Total Votes": 1441
+      "Total Votes": 1441,
+      "Total Candidate": 1
     },
     "Bharatiya Bikash Parishad": {
       "EVM Votes": 3415,
       "Postal Votes": 15,
-      "Total Votes": 3430
+      "Total Votes": 3430,
+      "Total Candidate": 2
     },
     "Sanatan Sanskriti Raksha Dal": {
       "EVM Votes": 9345,
       "Postal Votes": 2,
-      "Total Votes": 9347
+      "Total Votes": 9347,
+      "Total Candidate": 2
     },
     "Rashtriya Sawarn Dal": {
       "EVM Votes": 2276,
       "Postal Votes": 17,
-      "Total Votes": 2293
+      "Total Votes": 2293,
+      "Total Candidate": 2
     },
     "Bheem Tribal Congress": {
       "EVM Votes": 6533,
       "Postal Votes": 70,
-      "Total Votes": 6603
+      "Total Votes": 6603,
+      "Total Candidate": 7
     },
     "Rashtriya Sanatan Party": {
       "EVM Votes": 16845,
       "Postal Votes": 14,
-      "Total Votes": 16859
+      "Total Votes": 16859,
+      "Total Candidate": 3
     },
     "Indian Peoples Green Party": {
       "EVM Votes": 39675,
       "Postal Votes": 103,
-      "Total Votes": 39778
+      "Total Votes": 39778,
+      "Total Candidate": 8
     },
     "Rashtriya Samta Vikas Party": {
       "EVM Votes": 3911,
       "Postal Votes": 15,
-      "Total Votes": 3926
+      "Total Votes": 3926,
+      "Total Candidate": 2
     },
     "Sarv Samaj Party": {
       "EVM Votes": 6852,
       "Postal Votes": 27,
-      "Total Votes": 6879
+      "Total Votes": 6879,
+      "Total Candidate": 2
     },
     "Hindustan Janta Party": {
       "EVM Votes": 7876,
       "Postal Votes": 38,
-      "Total Votes": 7914
+      "Total Votes": 7914,
+      "Total Candidate": 6
     },
     "National Future Party": {
       "EVM Votes": 1190,
       "Postal Votes": 7,
-      "Total Votes": 1197
+      "Total Votes": 1197,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Aamjan Party": {
       "EVM Votes": 807,
       "Postal Votes": 11,
-      "Total Votes": 818
+      "Total Votes": 818,
+      "Total Candidate": 1
     },
     "Bharatiya Sampuran Krantikari Party": {
       "EVM Votes": 1873,
       "Postal Votes": 7,
-      "Total Votes": 1880
+      "Total Votes": 1880,
+      "Total Candidate": 3
     },
     "Dalit Kranti Dal": {
       "EVM Votes": 546,
       "Postal Votes": 1,
-      "Total Votes": 547
+      "Total Votes": 547,
+      "Total Candidate": 1
     },
     "Rashtriya Janshakti Party (Secular)": {
       "EVM Votes": 6219,
       "Postal Votes": 32,
-      "Total Votes": 6251
+      "Total Votes": 6251,
+      "Total Candidate": 3
     },
     "Akhil Bharatiya Congress Dal (Ambedkar)": {
       "EVM Votes": 2764,
       "Postal Votes": 13,
-      "Total Votes": 2777
+      "Total Votes": 2777,
+      "Total Candidate": 1
     },
     "Pehchan People’s Party": {
       "EVM Votes": 1216,
       "Postal Votes": 12,
-      "Total Votes": 1228
+      "Total Votes": 1228,
+      "Total Candidate": 1
     },
     "Vishva Shakti Party": {
       "EVM Votes": 2326,
       "Postal Votes": 35,
-      "Total Votes": 2361
+      "Total Votes": 2361,
+      "Total Candidate": 2
     },
     "Bhartiya Jan Adhikar Party": {
       "EVM Votes": 1917,
       "Postal Votes": 23,
-      "Total Votes": 1940
+      "Total Votes": 1940,
+      "Total Candidate": 1
     },
     "Bhartiya Garib Vikas Kalyan Party": {
       "EVM Votes": 1340,
       "Postal Votes": 7,
-      "Total Votes": 1347
+      "Total Votes": 1347,
+      "Total Candidate": 1
     },
     "Rashtriya Shoshit Samaj Party": {
       "EVM Votes": 53847,
       "Postal Votes": 64,
-      "Total Votes": 53911
+      "Total Votes": 53911,
+      "Total Candidate": 9
     },
     "Sabse Achchhi Party": {
       "EVM Votes": 2026,
       "Postal Votes": 3,
-      "Total Votes": 2029
+      "Total Votes": 2029,
+      "Total Candidate": 1
     },
     "Majloom Samaj Party": {
       "EVM Votes": 3225,
       "Postal Votes": 12,
-      "Total Votes": 3237
+      "Total Votes": 3237,
+      "Total Candidate": 2
     },
     "Jai Hind National Party": {
       "EVM Votes": 5424,
       "Postal Votes": 27,
-      "Total Votes": 5451
+      "Total Votes": 5451,
+      "Total Candidate": 4
     },
     "Samaj Vikas Kranti Party": {
       "EVM Votes": 6354,
       "Postal Votes": 19,
-      "Total Votes": 6373
+      "Total Votes": 6373,
+      "Total Candidate": 6
     },
     "Rashtriya Jan Karmath Party": {
       "EVM Votes": 763,
       "Postal Votes": 1,
-      "Total Votes": 764
+      "Total Votes": 764,
+      "Total Candidate": 1
     },
     "National Party": {
       "EVM Votes": 1739,
       "Postal Votes": 28,
-      "Total Votes": 1767
+      "Total Votes": 1767,
+      "Total Candidate": 1
     },
     "Bhartiya Rashtriya Jansatta": {
       "EVM Votes": 931,
       "Postal Votes": 10,
-      "Total Votes": 941
+      "Total Votes": 941,
+      "Total Candidate": 1
     },
     "Super Power India Party": {
       "EVM Votes": 1385,
       "Postal Votes": 15,
-      "Total Votes": 1400
+      "Total Votes": 1400,
+      "Total Candidate": 3
     },
     "Rishivadi Karm Sheel Young Parmarthi Party": {
       "EVM Votes": 4391,
       "Postal Votes": 10,
-      "Total Votes": 4401
+      "Total Votes": 4401,
+      "Total Candidate": 1
     },
     "Swatantra Jantaraj Party": {
       "EVM Votes": 10579,
       "Postal Votes": 48,
-      "Total Votes": 10627
+      "Total Votes": 10627,
+      "Total Candidate": 4
     },
     "Saman Adhikar Party": {
       "EVM Votes": 1929,
       "Postal Votes": 14,
-      "Total Votes": 1943
+      "Total Votes": 1943,
+      "Total Candidate": 2
     },
     "Swaraj Bhartiya Nyay Party": {
       "EVM Votes": 4072,
       "Postal Votes": 16,
-      "Total Votes": 4088
+      "Total Votes": 4088,
+      "Total Candidate": 3
     },
     "Bharatiya Kisan Parivartan Party": {
       "EVM Votes": 10249,
       "Postal Votes": 23,
-      "Total Votes": 10272
+      "Total Votes": 10272,
+      "Total Candidate": 3
     },
     "Bharatiya Majdoor Janta Party": {
       "EVM Votes": 2540,
       "Postal Votes": 26,
-      "Total Votes": 2566
+      "Total Votes": 2566,
+      "Total Candidate": 2
     },
     "Lokpriya Rashtrawadi Party": {
       "EVM Votes": 780,
       "Postal Votes": 2,
-      "Total Votes": 782
+      "Total Votes": 782,
+      "Total Candidate": 1
     },
     "Adarsh Samaj Party": {
       "EVM Votes": 640,
       "Postal Votes": 3,
-      "Total Votes": 643
+      "Total Votes": 643,
+      "Total Candidate": 1
     },
     "Peace Party": {
       "EVM Votes": 38474,
       "Postal Votes": 32,
-      "Total Votes": 38506
+      "Total Votes": 38506,
+      "Total Candidate": 9
     },
     "Jan Shakti Ekta Party": {
       "EVM Votes": 844,
       "Postal Votes": 3,
-      "Total Votes": 847
+      "Total Votes": 847,
+      "Total Candidate": 1
     },
     "Sardar Patel Siddhant Party": {
       "EVM Votes": 46060,
       "Postal Votes": 85,
-      "Total Votes": 46145
+      "Total Votes": 46145,
+      "Total Candidate": 23
     },
     "Bharat Jodo Party": {
       "EVM Votes": 6013,
       "Postal Votes": 32,
-      "Total Votes": 6045
+      "Total Votes": 6045,
+      "Total Candidate": 4
     },
     "Bhartiya Krishak Dal": {
       "EVM Votes": 5706,
       "Postal Votes": 17,
-      "Total Votes": 5723
+      "Total Votes": 5723,
+      "Total Candidate": 3
     },
     "Manav Kranti Party": {
       "EVM Votes": 1076,
       "Postal Votes": 0,
-      "Total Votes": 1076
+      "Total Votes": 1076,
+      "Total Candidate": 1
     },
     "Justice Party": {
       "EVM Votes": 2945,
       "Postal Votes": 1,
-      "Total Votes": 2946
+      "Total Votes": 2946,
+      "Total Candidate": 1
     },
     "Naari Nar Rakshak Party": {
       "EVM Votes": 3495,
       "Postal Votes": 6,
-      "Total Votes": 3501
+      "Total Votes": 3501,
+      "Total Candidate": 2
     },
     "Lok Jan Sangharsh Party": {
       "EVM Votes": 3950,
       "Postal Votes": 4,
-      "Total Votes": 3954
+      "Total Votes": 3954,
+      "Total Candidate": 2
     },
     "Rashtriya Janshakti Samaj Party": {
       "EVM Votes": 2983,
       "Postal Votes": 5,
-      "Total Votes": 2988
+      "Total Votes": 2988,
+      "Total Candidate": 2
     },
     "Parcham Party of India": {
       "EVM Votes": 8390,
       "Postal Votes": 14,
-      "Total Votes": 8404
+      "Total Votes": 8404,
+      "Total Candidate": 1
     },
     "Sarvar Party": {
       "EVM Votes": 1199,
       "Postal Votes": 3,
-      "Total Votes": 1202
+      "Total Votes": 1202,
+      "Total Candidate": 1
     },
     "Mera Adhikaar Rashtriya Dal": {
       "EVM Votes": 8490,
       "Postal Votes": 24,
-      "Total Votes": 8514
+      "Total Votes": 8514,
+      "Total Candidate": 3
     },
     "Kisan Vishwa Party": {
       "EVM Votes": 601,
       "Postal Votes": 2,
-      "Total Votes": 603
+      "Total Votes": 603,
+      "Total Candidate": 1
     },
     "Bharatiya Rashtriya Morcha": {
       "EVM Votes": 3345,
       "Postal Votes": 13,
-      "Total Votes": 3358
+      "Total Votes": 3358,
+      "Total Candidate": 1
     },
     "Bharatiya Nagrik Party": {
       "EVM Votes": 2431,
       "Postal Votes": 3,
-      "Total Votes": 2434
+      "Total Votes": 2434,
+      "Total Candidate": 1
     },
     "Sabhi Jan Party": {
       "EVM Votes": 5129,
       "Postal Votes": 18,
-      "Total Votes": 5147
+      "Total Votes": 5147,
+      "Total Candidate": 2
     },
     "Rashtriya Sanskriti Party": {
       "EVM Votes": 1489,
       "Postal Votes": 5,
-      "Total Votes": 1494
+      "Total Votes": 1494,
+      "Total Candidate": 1
     },
     "Rashtriya Janutthan Party": {
       "EVM Votes": 1146,
       "Postal Votes": 11,
-      "Total Votes": 1157
+      "Total Votes": 1157,
+      "Total Candidate": 1
     },
     "Apna Dal (Kamerawadi)": {
       "EVM Votes": 39058,
       "Postal Votes": 70,
-      "Total Votes": 39128
+      "Total Votes": 39128,
+      "Total Candidate": 11
     },
     "Al-Hind Party": {
       "EVM Votes": 22297,
       "Postal Votes": 11,
-      "Total Votes": 22308
+      "Total Votes": 22308,
+      "Total Candidate": 4
     },
     "Pragatisheel Samaj Party": {
       "EVM Votes": 10544,
       "Postal Votes": 9,
-      "Total Votes": 10553
+      "Total Votes": 10553,
+      "Total Candidate": 3
     },
     "Yuva Vikas Party": {
       "EVM Votes": 1675,
       "Postal Votes": 4,
-      "Total Votes": 1679
+      "Total Votes": 1679,
+      "Total Candidate": 1
     },
     "Prabuddhwadi Bahujan Morcha": {
       "EVM Votes": 3408,
       "Postal Votes": 9,
-      "Total Votes": 3417
+      "Total Votes": 3417,
+      "Total Candidate": 2
     },
     "Bhartiya Awam Party (Rastriya)": {
       "EVM Votes": 6158,
       "Postal Votes": 2,
-      "Total Votes": 6160
+      "Total Votes": 6160,
+      "Total Candidate": 1
     },
     "Rashtra Dharak Dal": {
       "EVM Votes": 1681,
       "Postal Votes": 2,
-      "Total Votes": 1683
+      "Total Votes": 1683,
+      "Total Candidate": 1
     },
     "Bhartiya Uday Nirman Party": {
       "EVM Votes": 1482,
       "Postal Votes": 1,
-      "Total Votes": 1483
+      "Total Votes": 1483,
+      "Total Candidate": 1
     },
     "Abhay Samaj Party": {
       "EVM Votes": 8575,
       "Postal Votes": 8,
-      "Total Votes": 8583
+      "Total Votes": 8583,
+      "Total Candidate": 1
     },
     "Bhartiya Sarvdharm Party": {
       "EVM Votes": 2011,
       "Postal Votes": 1,
-      "Total Votes": 2012
+      "Total Votes": 2012,
+      "Total Candidate": 1
     },
     "Bhartiya Lok Nayak Party": {
       "EVM Votes": 12380,
       "Postal Votes": 31,
-      "Total Votes": 12411
+      "Total Votes": 12411,
+      "Total Candidate": 2
     },
     "Janta Samta Party": {
       "EVM Votes": 3261,
       "Postal Votes": 3,
-      "Total Votes": 3264
+      "Total Votes": 3264,
+      "Total Candidate": 1
     },
     "Rashtriya Samanta Dal": {
       "EVM Votes": 28305,
       "Postal Votes": 35,
-      "Total Votes": 28340
+      "Total Votes": 28340,
+      "Total Candidate": 3
     },
     "Yuga Thulasi Party": {
       "EVM Votes": 22221,
       "Postal Votes": 26,
-      "Total Votes": 22247
+      "Total Votes": 22247,
+      "Total Candidate": 8
     },
     "Pragatisheel Manav Samaj Party": {
       "EVM Votes": 15214,
       "Postal Votes": 36,
-      "Total Votes": 15250
+      "Total Votes": 15250,
+      "Total Candidate": 2
     },
     "Revolutionary Socialist Party": {
       "EVM Votes": 580618,
       "Postal Votes": 6745,
-      "Total Votes": 587363
+      "Total Votes": 587363,
+      "Total Candidate": 10
     },
     "North Bengal People’s Party": {
       "EVM Votes": 5987,
       "Postal Votes": 86,
-      "Total Votes": 6073
+      "Total Votes": 6073,
+      "Total Candidate": 3
     },
     "Kamatapur People’s Party (United)": {
       "EVM Votes": 11066,
       "Postal Votes": 140,
-      "Total Votes": 11206
+      "Total Votes": 11206,
+      "Total Candidate": 6
     },
     "Mulnibasi Party of India": {
       "EVM Votes": 14099,
       "Postal Votes": 69,
-      "Total Votes": 14168
+      "Total Votes": 14168,
+      "Total Candidate": 8
     },
     "Gorkha Rashtriya Congress": {
       "EVM Votes": 1270,
       "Postal Votes": 61,
-      "Total Votes": 1331
+      "Total Votes": 1331,
+      "Total Candidate": 1
     },
     "Bhumiputra United Party": {
       "EVM Votes": 3003,
       "Postal Votes": 15,
-      "Total Votes": 3018
+      "Total Votes": 3018,
+      "Total Candidate": 2
     },
     "India Manus Party": {
       "EVM Votes": 977,
       "Postal Votes": 5,
-      "Total Votes": 982
+      "Total Votes": 982,
+      "Total Candidate": 1
     },
     "All India Secular Front": {
       "EVM Votes": 649657,
       "Postal Votes": 572,
-      "Total Votes": 650229
+      "Total Votes": 650229,
+      "Total Candidate": 17
     },
     "Party for Democratic Socialism": {
       "EVM Votes": 6633,
       "Postal Votes": 18,
-      "Total Votes": 6651
+      "Total Votes": 6651,
+      "Total Candidate": 3
     },
     "Guruchand Sena Dal": {
       "EVM Votes": 581,
       "Postal Votes": 2,
-      "Total Votes": 583
+      "Total Votes": 583,
+      "Total Candidate": 1
     },
     "Hamar Raj Party": {
       "EVM Votes": 40592,
       "Postal Votes": 154,
-      "Total Votes": 40746
+      "Total Votes": 40746,
+      "Total Candidate": 8
     },
     "Sarv Adi Dal": {
       "EVM Votes": 20287,
       "Postal Votes": 61,
-      "Total Votes": 20348
+      "Total Votes": 20348,
+      "Total Candidate": 4
     },
     "Asankhya Samaj Party": {
       "EVM Votes": 3667,
       "Postal Votes": 5,
-      "Total Votes": 3672
+      "Total Votes": 3672,
+      "Total Candidate": 2
     },
     "Shakti Sena (Bharat Desh)": {
       "EVM Votes": 21022,
       "Postal Votes": 14,
-      "Total Votes": 21036
+      "Total Votes": 21036,
+      "Total Candidate": 6
     },
     "Rashtriya Jansabha Party": {
       "EVM Votes": 19259,
       "Postal Votes": 59,
-      "Total Votes": 19318
+      "Total Votes": 19318,
+      "Total Candidate": 7
     },
     "Azad Janata Party": {
       "EVM Votes": 4402,
       "Postal Votes": 27,
-      "Total Votes": 4429
+      "Total Votes": 4429,
+      "Total Candidate": 2
     },
     "Loktantra Congress Party": {
       "EVM Votes": 5094,
       "Postal Votes": 6,
-      "Total Votes": 5100
+      "Total Votes": 5100,
+      "Total Candidate": 2
     },
     "Lokshahi Ekta Party": {
       "EVM Votes": 1582,
       "Postal Votes": 3,
-      "Total Votes": 1585
+      "Total Votes": 1585,
+      "Total Candidate": 2
     },
     "Sunder Samaj Party": {
       "EVM Votes": 3399,
       "Postal Votes": 10,
-      "Total Votes": 3409
+      "Total Votes": 3409,
+      "Total Candidate": 2
     },
     "Bhrashtachar Mukti Morcha": {
       "EVM Votes": 765,
       "Postal Votes": 1,
-      "Total Votes": 766
+      "Total Votes": 766,
+      "Total Candidate": 1
     },
     "Aap Sabki Apni Party": {
       "EVM Votes": 525,
       "Postal Votes": 3,
-      "Total Votes": 528
+      "Total Votes": 528,
+      "Total Candidate": 1
     },
     "Dhoom Sena": {
       "EVM Votes": 434,
       "Postal Votes": 0,
-      "Total Votes": 434
+      "Total Votes": 434,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Manavadhikar Vichar Manch Party": {
       "EVM Votes": 2102,
       "Postal Votes": 6,
-      "Total Votes": 2108
+      "Total Votes": 2108,
+      "Total Candidate": 1
     },
     "Lokhit Adhikar Party": {
       "EVM Votes": 61963,
       "Postal Votes": 173,
-      "Total Votes": 62136
+      "Total Votes": 62136,
+      "Total Candidate": 12
     },
     "Rashtriya Jan Utkarsh Party": {
       "EVM Votes": 2297,
       "Postal Votes": 12,
-      "Total Votes": 2309
+      "Total Votes": 2309,
+      "Total Candidate": 1
     },
     "Communist Party of India  (Marxist-Leninist)  (Liberation)": {
       "EVM Votes": 1726309,
       "Postal Votes": 10462,
-      "Total Votes": 1736771
+      "Total Votes": 1736771,
+      "Total Candidate": 7
     },
     "Moolniwasi Samaj Party": {
       "EVM Votes": 60995,
       "Postal Votes": 38,
-      "Total Votes": 61033
+      "Total Votes": 61033,
+      "Total Candidate": 5
     },
     "Akhil Bharat Hindu Mahasabha": {
       "EVM Votes": 2253,
       "Postal Votes": 25,
-      "Total Votes": 2278
+      "Total Votes": 2278,
+      "Total Candidate": 2
     },
     "Jai Maha Bharath Party": {
       "EVM Votes": 18101,
       "Postal Votes": 32,
-      "Total Votes": 18133
+      "Total Votes": 18133,
+      "Total Candidate": 7
     },
     "Rashtriya Jansangharsh Swaraj Party": {
       "EVM Votes": 7793,
       "Postal Votes": 10,
-      "Total Votes": 7803
+      "Total Votes": 7803,
+      "Total Candidate": 1
     },
     "Abua Jharkhand Party": {
       "EVM Votes": 3130,
       "Postal Votes": 25,
-      "Total Votes": 3155
+      "Total Votes": 3155,
+      "Total Candidate": 1
     },
     "Bhartiya Jantantra Morcha": {
       "EVM Votes": 3072,
       "Postal Votes": 22,
-      "Total Votes": 3094
+      "Total Votes": 3094,
+      "Total Candidate": 1
     },
     "Sampoorna Bharat Kranti Party": {
       "EVM Votes": 2870,
       "Postal Votes": 74,
-      "Total Votes": 2944
+      "Total Votes": 2944,
+      "Total Candidate": 1
     },
     "Amra Bangalee": {
       "EVM Votes": 4898,
       "Postal Votes": 27,
-      "Total Votes": 4925
+      "Total Votes": 4925,
+      "Total Candidate": 1
     },
     "Bhartiya Azad Sena": {
       "EVM Votes": 3006,
       "Postal Votes": 12,
-      "Total Votes": 3018
+      "Total Votes": 3018,
+      "Total Candidate": 2
     },
     "Rashtriya Uttarakhand Party": {
       "EVM Votes": 9969,
       "Postal Votes": 57,
-      "Total Votes": 10026
+      "Total Votes": 10026,
+      "Total Candidate": 1
     },
     "Bhartiya Rashtriya Ekta Dal": {
       "EVM Votes": 4695,
       "Postal Votes": 37,
-      "Total Votes": 4732
+      "Total Votes": 4732,
+      "Total Candidate": 2
     },
     "Uttarakhand Kranti Dal": {
       "EVM Votes": 8800,
       "Postal Votes": 470,
-      "Total Votes": 9270
+      "Total Votes": 9270,
+      "Total Candidate": 3
     },
     "Uttarakhand Samanta Party": {
       "EVM Votes": 3781,
       "Postal Votes": 64,
-      "Total Votes": 3845
+      "Total Votes": 3845,
+      "Total Candidate": 2
     },
     "Uttarakhand Parivartan Party": {
       "EVM Votes": 5528,
       "Postal Votes": 250,
-      "Total Votes": 5778
+      "Total Votes": 5778,
+      "Total Candidate": 1
     },
     "Bharat Ki Lok Jimmedar Party": {
       "EVM Votes": 2292,
       "Postal Votes": 18,
-      "Total Votes": 2310
+      "Total Votes": 2310,
+      "Total Candidate": 1
     },
     "Bharat Rashtra Samithi": {
       "EVM Votes": 3637086,
       "Postal Votes": 20151,
-      "Total Votes": 3657237
+      "Total Votes": 3657237,
+      "Total Candidate": 17
     },
     "Alliance of Democratic Reforms Party": {
       "EVM Votes": 108158,
       "Postal Votes": 176,
-      "Total Votes": 108334
+      "Total Votes": 108334,
+      "Total Candidate": 14
     },
     "Anna YSR Congress Party": {
       "EVM Votes": 11337,
       "Postal Votes": 122,
-      "Total Votes": 11459
+      "Total Votes": 11459,
+      "Total Candidate": 7
     },
     "Dharma Samaj Party": {
       "EVM Votes": 38254,
       "Postal Votes": 476,
-      "Total Votes": 38730
+      "Total Votes": 38730,
+      "Total Candidate": 15
     },
     "Vidhyarthula Rajakiya Party": {
       "EVM Votes": 4726,
       "Postal Votes": 21,
-      "Total Votes": 4747
+      "Total Votes": 4747,
+      "Total Candidate": 5
     },
     "Gondwana Dandkaranya Party": {
       "EVM Votes": 3831,
       "Postal Votes": 26,
-      "Total Votes": 3857
+      "Total Votes": 3857,
+      "Total Candidate": 2
     },
     "India Praja Bandhu Party": {
       "EVM Votes": 16854,
       "Postal Votes": 88,
-      "Total Votes": 16942
+      "Total Votes": 16942,
+      "Total Candidate": 10
     },
     "Bharathiya YuvaKula Dalam": {
       "EVM Votes": 3998,
       "Postal Votes": 9,
-      "Total Votes": 4007
+      "Total Votes": 4007,
+      "Total Candidate": 2
     },
     "National Nava Kranthi Party": {
       "EVM Votes": 10270,
       "Postal Votes": 14,
-      "Total Votes": 10284
+      "Total Votes": 10284,
+      "Total Candidate": 5
     },
     "Social Justice Party of India": {
       "EVM Votes": 8500,
       "Postal Votes": 19,
-      "Total Votes": 8519
+      "Total Votes": 8519,
+      "Total Candidate": 6
     },
     "Telugu Congress Party": {
       "EVM Votes": 783,
       "Postal Votes": 7,
-      "Total Votes": 790
+      "Total Votes": 790,
+      "Total Candidate": 1
     },
     "Bahujana Left Party": {
       "EVM Votes": 1248,
       "Postal Votes": 17,
-      "Total Votes": 1265
+      "Total Votes": 1265,
+      "Total Candidate": 2
     },
     "Praja Velugu Party": {
       "EVM Votes": 12190,
       "Postal Votes": 9,
-      "Total Votes": 12199
+      "Total Votes": 12199,
+      "Total Candidate": 2
     },
     "Telangana Praja Shakthi Party": {
       "EVM Votes": 9277,
       "Postal Votes": 13,
-      "Total Votes": 9290
+      "Total Votes": 9290,
+      "Total Candidate": 2
     },
     "Jana Shankhaaraavam Party": {
       "EVM Votes": 792,
       "Postal Votes": 5,
-      "Total Votes": 797
+      "Total Votes": 797,
+      "Total Candidate": 1
     },
     "Rashtra Samanya Praja Party": {
       "EVM Votes": 1468,
       "Postal Votes": 6,
-      "Total Votes": 1474
+      "Total Votes": 1474,
+      "Total Candidate": 2
     },
     "Telangana Republican Party": {
       "EVM Votes": 1448,
       "Postal Votes": 4,
-      "Total Votes": 1452
+      "Total Votes": 1452,
+      "Total Candidate": 3
     },
     "Telangana Rajya Samithi": {
       "EVM Votes": 1726,
       "Postal Votes": 1,
-      "Total Votes": 1727
+      "Total Votes": 1727,
+      "Total Candidate": 1
     },
     "Jai Swaraj Party": {
       "EVM Votes": 7678,
       "Postal Votes": 6,
-      "Total Votes": 7684
+      "Total Votes": 7684,
+      "Total Candidate": 4
     },
     "All India Majlis-E-Inquilab-E-Millat": {
       "EVM Votes": 5441,
       "Postal Votes": 13,
-      "Total Votes": 5454
+      "Total Votes": 5454,
+      "Total Candidate": 5
     },
     "Indian National Yuva Jana Party": {
       "EVM Votes": 844,
       "Postal Votes": 3,
-      "Total Votes": 847
+      "Total Votes": 847,
+      "Total Candidate": 2
     },
     "All India Backward People Sunami Party": {
       "EVM Votes": 209,
       "Postal Votes": 1,
-      "Total Votes": 210
+      "Total Votes": 210,
+      "Total Candidate": 1
     },
     "Praja Ektha Party": {
       "EVM Votes": 1251,
       "Postal Votes": 1,
-      "Total Votes": 1252
+      "Total Votes": 1252,
+      "Total Candidate": 2
     },
     "Marxist Communist Party of India (United)": {
       "EVM Votes": 3474,
       "Postal Votes": 31,
-      "Total Votes": 3505
+      "Total Votes": 3505,
+      "Total Candidate": 5
     },
     "Blue India Party": {
       "EVM Votes": 1798,
       "Postal Votes": 5,
-      "Total Votes": 1803
+      "Total Votes": 1803,
+      "Total Candidate": 2
     },
     "Telangana Jaghir Party": {
       "EVM Votes": 1640,
       "Postal Votes": 8,
-      "Total Votes": 1648
+      "Total Votes": 1648,
+      "Total Candidate": 3
     },
     "Andaman Nicobar Democratic Congress": {
       "EVM Votes": 8236,
       "Postal Votes": 18,
-      "Total Votes": 8254
+      "Total Votes": 8254,
+      "Total Candidate": 1
     },
     "All India Anna Dravida Munnetra Kazhagam": {
       "EVM Votes": 8906771,
       "Postal Votes": 45816,
-      "Total Votes": 8952587
+      "Total Votes": 8952587,
+      "Total Candidate": 36
     },
     "Atulya Bharat Party": {
       "EVM Votes": 1614,
       "Postal Votes": 3,
-      "Total Votes": 1617
+      "Total Votes": 1617,
+      "Total Candidate": 1
     },
     "Azad Samaj Party": {
       "EVM Votes": 2787,
       "Postal Votes": 4,
-      "Total Votes": 2791
+      "Total Votes": 2791,
+      "Total Candidate": 2
     },
     "Aman Samaj Party": {
       "EVM Votes": 945,
       "Postal Votes": 0,
-      "Total Votes": 945
+      "Total Votes": 945,
+      "Total Candidate": 1
     },
     "Satya Bahumat Party": {
       "EVM Votes": 842,
       "Postal Votes": 0,
-      "Total Votes": 842
+      "Total Votes": 842,
+      "Total Candidate": 1
     },
     "Rashtriya Republican Party": {
       "EVM Votes": 4790,
       "Postal Votes": 11,
-      "Total Votes": 4801
+      "Total Votes": 4801,
+      "Total Candidate": 5
     },
     "Bharatiya Liberal Party": {
       "EVM Votes": 1552,
       "Postal Votes": 0,
-      "Total Votes": 1552
+      "Total Votes": 1552,
+      "Total Candidate": 2
     },
     "Akhil Bhartiya Sudhar Party": {
       "EVM Votes": 321,
       "Postal Votes": 0,
-      "Total Votes": 321
+      "Total Votes": 321,
+      "Total Candidate": 1
     },
     "Bharat Lok Sewak Party": {
       "EVM Votes": 261,
       "Postal Votes": 1,
-      "Total Votes": 262
+      "Total Votes": 262,
+      "Total Candidate": 1
     },
     "Rashtriya Mangalam Party": {
       "EVM Votes": 256,
       "Postal Votes": 1,
-      "Total Votes": 257
+      "Total Votes": 257,
+      "Total Candidate": 1
     },
     "Aapki Apni Party (Peoples)": {
       "EVM Votes": 6012,
       "Postal Votes": 21,
-      "Total Votes": 6033
+      "Total Votes": 6033,
+      "Total Candidate": 4
     },
     "Rashtriya Janmorcha": {
       "EVM Votes": 1639,
       "Postal Votes": 0,
-      "Total Votes": 1639
+      "Total Votes": 1639,
+      "Total Candidate": 1
     },
     "Jindabad Kranti Party": {
       "EVM Votes": 1689,
       "Postal Votes": 1,
-      "Total Votes": 1690
+      "Total Votes": 1690,
+      "Total Candidate": 2
     },
     "Bharatrashtra Democratic Party": {
       "EVM Votes": 310,
       "Postal Votes": 0,
-      "Total Votes": 310
+      "Total Votes": 310,
+      "Total Candidate": 1
     },
     "Bhartiya Veer Dal": {
       "EVM Votes": 468,
       "Postal Votes": 2,
-      "Total Votes": 470
+      "Total Votes": 470,
+      "Total Candidate": 1
     },
     "Anjaan Aadmi Party": {
       "EVM Votes": 781,
       "Postal Votes": 0,
-      "Total Votes": 781
+      "Total Votes": 781,
+      "Total Candidate": 1
     },
     "Rashtravadi Loktantrik Party (India)": {
       "EVM Votes": 640,
       "Postal Votes": 1,
-      "Total Votes": 641
+      "Total Votes": 641,
+      "Total Candidate": 1
     },
     "Aam Janshakti Party": {
       "EVM Votes": 1468,
       "Postal Votes": 10,
-      "Total Votes": 1478
+      "Total Votes": 1478,
+      "Total Candidate": 1
     },
     "Bharatiya Jan Jagriti Party": {
       "EVM Votes": 866,
       "Postal Votes": 13,
-      "Total Votes": 879
+      "Total Votes": 879,
+      "Total Candidate": 2
     },
     "Bahujan Shoshit Samaj Sangharsh Samta Party": {
       "EVM Votes": 372,
       "Postal Votes": 1,
-      "Total Votes": 373
+      "Total Votes": 373,
+      "Total Candidate": 1
     },
     "Bhartiya Mahasangh Party": {
       "EVM Votes": 753,
       "Postal Votes": 5,
-      "Total Votes": 758
+      "Total Votes": 758,
+      "Total Candidate": 1
     },
     "Rashtriya Rashtrawadi Party": {
       "EVM Votes": 611,
       "Postal Votes": 3,
-      "Total Votes": 614
+      "Total Votes": 614,
+      "Total Candidate": 1
     },
     "Bahujan National Party (Ambedkar)": {
       "EVM Votes": 585,
       "Postal Votes": 1,
-      "Total Votes": 586
+      "Total Votes": 586,
+      "Total Candidate": 1
     },
     "Rashtriya Suraksha Party": {
       "EVM Votes": 571,
       "Postal Votes": 3,
-      "Total Votes": 574
+      "Total Votes": 574,
+      "Total Candidate": 1
     },
     "Sarvlokhit Samaj Party": {
       "EVM Votes": 439,
       "Postal Votes": 7,
-      "Total Votes": 446
+      "Total Votes": 446,
+      "Total Candidate": 1
     },
     "Haryana Jansena Party": {
       "EVM Votes": 7642,
       "Postal Votes": 4,
-      "Total Votes": 7646
+      "Total Votes": 7646,
+      "Total Candidate": 3
     },
     "Delhi Janta Party": {
       "EVM Votes": 5225,
       "Postal Votes": 10,
-      "Total Votes": 5235
+      "Total Votes": 5235,
+      "Total Candidate": 2
     },
     "India Greens Party": {
       "EVM Votes": 2366,
       "Postal Votes": 21,
-      "Total Votes": 2387
+      "Total Votes": 2387,
+      "Total Candidate": 3
     },
     "Hamara Sahi Vikalp Party": {
       "EVM Votes": 475,
       "Postal Votes": 1,
-      "Total Votes": 476
+      "Total Votes": 476,
+      "Total Candidate": 1
     },
     "Jammu & Kashmir National Panthers Party (Bhim)": {
       "EVM Votes": 22868,
       "Postal Votes": 400,
-      "Total Votes": 23268
+      "Total Votes": 23268,
+      "Total Candidate": 5
     },
     "National Awami United Party": {
       "EVM Votes": 5098,
       "Postal Votes": 221,
-      "Total Votes": 5319
+      "Total Votes": 5319,
+      "Total Candidate": 2
     },
     "Jammu & Kashmir People Conference": {
       "EVM Votes": 173232,
       "Postal Votes": 1658,
-      "Total Votes": 174890
+      "Total Votes": 174890,
+      "Total Candidate": 2
     },
     "Jammu and Kashmir Nationalist People's Front": {
       "EVM Votes": 8396,
       "Postal Votes": 57,
-      "Total Votes": 8453
+      "Total Votes": 8453,
+      "Total Candidate": 3
     },
     "Hindustan Shakti Sena": {
       "EVM Votes": 5601,
       "Postal Votes": 24,
-      "Total Votes": 5625
+      "Total Votes": 5625,
+      "Total Candidate": 5
     },
     "Asom Gana Parishad": {
       "EVM Votes": 1289464,
       "Postal Votes": 9243,
-      "Total Votes": 1298707
+      "Total Votes": 1298707,
+      "Total Candidate": 2
     },
     "Janata Dal  (United)": {
       "EVM Votes": 8020732,
       "Postal Votes": 18931,
-      "Total Votes": 8039663
+      "Total Votes": 8039663,
+      "Total Candidate": 16
     },
     "Bharat Jago Janta Party": {
       "EVM Votes": 6303,
       "Postal Votes": 37,
-      "Total Votes": 6340
+      "Total Votes": 6340,
+      "Total Candidate": 1
     },
     "Samaj Shakti Party": {
       "EVM Votes": 29205,
       "Postal Votes": 30,
-      "Total Votes": 29235
+      "Total Votes": 29235,
+      "Total Candidate": 3
     },
     "Bhartiya Gandhiwadi Party": {
       "EVM Votes": 4817,
       "Postal Votes": 5,
-      "Total Votes": 4822
+      "Total Votes": 4822,
+      "Total Candidate": 1
     },
     "Jan Janwadi Party": {
       "EVM Votes": 15212,
       "Postal Votes": 28,
-      "Total Votes": 15240
+      "Total Votes": 15240,
+      "Total Candidate": 4
     },
     "Corruption Abolition Party": {
       "EVM Votes": 487,
       "Postal Votes": 14,
-      "Total Votes": 501
+      "Total Votes": 501,
+      "Total Candidate": 1
     },
     "Aam Aadmi Parivartan Party": {
       "EVM Votes": 2069,
       "Postal Votes": 59,
-      "Total Votes": 2128
+      "Total Votes": 2128,
+      "Total Candidate": 2
     },
     "Rashtriya Jatigat Aarakshan Virodhi Party": {
       "EVM Votes": 214,
       "Postal Votes": 1,
-      "Total Votes": 215
+      "Total Votes": 215,
+      "Total Candidate": 1
     },
     "Sarva Janata Party": {
       "EVM Votes": 5748,
       "Postal Votes": 23,
-      "Total Votes": 5771
+      "Total Votes": 5771,
+      "Total Candidate": 2
     },
     "BhartiyaBahujanKranti Dal": {
       "EVM Votes": 702,
       "Postal Votes": 7,
-      "Total Votes": 709
+      "Total Votes": 709,
+      "Total Candidate": 1
     },
     "Bhartiya Jan Samrat Party": {
       "EVM Votes": 2625,
       "Postal Votes": 15,
-      "Total Votes": 2640
+      "Total Votes": 2640,
+      "Total Candidate": 1
     },
     "All India Ulama Congress": {
       "EVM Votes": 2484,
       "Postal Votes": 16,
-      "Total Votes": 2500
+      "Total Votes": 2500,
+      "Total Candidate": 2
     },
     "Kranti Kari Jai Hind Sena": {
       "EVM Votes": 2965,
       "Postal Votes": 11,
-      "Total Votes": 2976
+      "Total Votes": 2976,
+      "Total Candidate": 3
     },
     "Challengers Party": {
       "EVM Votes": 1237,
       "Postal Votes": 6,
-      "Total Votes": 1243
+      "Total Votes": 1243,
+      "Total Candidate": 2
     },
     "Janata Dal  (Secular)": {
       "EVM Votes": 2163203,
       "Postal Votes": 10498,
-      "Total Votes": 2173701
+      "Total Votes": 2173701,
+      "Total Candidate": 3
     },
     "Purvanchal Mahapanchayat": {
       "EVM Votes": 8191,
       "Postal Votes": 26,
-      "Total Votes": 8217
+      "Total Votes": 8217,
+      "Total Candidate": 3
     },
     "Republican Party of India Bharatha": {
       "EVM Votes": 843,
       "Postal Votes": 5,
-      "Total Votes": 848
+      "Total Votes": 848,
+      "Total Candidate": 1
     },
     "Dr. Ambedkar People's Party": {
       "EVM Votes": 8074,
       "Postal Votes": 15,
-      "Total Votes": 8089
+      "Total Votes": 8089,
+      "Total Candidate": 1
     },
     "Karnataka Praja Party (RaithaParva)": {
       "EVM Votes": 972,
       "Postal Votes": 6,
-      "Total Votes": 978
+      "Total Votes": 978,
+      "Total Candidate": 1
     },
     "Bharath Dharma Jana Sena": {
       "EVM Votes": 500426,
       "Postal Votes": 5327,
-      "Total Votes": 505753
+      "Total Votes": 505753,
+      "Total Candidate": 4
     },
     "Twenty 20 Party": {
       "EVM Votes": 144678,
       "Postal Votes": 772,
-      "Total Votes": 145450
+      "Total Votes": 145450,
+      "Total Candidate": 2
     },
     "People's Party of India(secular)": {
       "EVM Votes": 3380,
       "Postal Votes": 12,
-      "Total Votes": 3392
+      "Total Votes": 3392,
+      "Total Candidate": 2
     },
     "Welfare Party Of India": {
       "EVM Votes": 946,
       "Postal Votes": 5,
-      "Total Votes": 951
+      "Total Votes": 951,
+      "Total Candidate": 1
     },
     "Republican Sena": {
       "EVM Votes": 18713,
       "Postal Votes": 80,
-      "Total Votes": 18793
+      "Total Votes": 18793,
+      "Total Candidate": 1
     },
     "Shiv Sena": {
       "EVM Votes": 7377674,
       "Postal Votes": 23773,
-      "Total Votes": 7401447
+      "Total Votes": 7401447,
+      "Total Candidate": 15
     },
     "Baliraja Party": {
       "EVM Votes": 33729,
       "Postal Votes": 58,
-      "Total Votes": 33787
+      "Total Votes": 33787,
+      "Total Candidate": 7
     },
     "Lok Swarajya Party": {
       "EVM Votes": 2966,
       "Postal Votes": 26,
-      "Total Votes": 2992
+      "Total Votes": 2992,
+      "Total Candidate": 2
     },
     "Sanman Rajkiya Paksha": {
       "EVM Votes": 6057,
       "Postal Votes": 18,
-      "Total Votes": 6075
+      "Total Votes": 6075,
+      "Total Candidate": 2
     },
     "Akhil Bharatiya Manavata Paksha": {
       "EVM Votes": 1054,
       "Postal Votes": 3,
-      "Total Votes": 1057
+      "Total Votes": 1057,
+      "Total Candidate": 1
     },
     "Samnak Janta Party": {
       "EVM Votes": 67090,
       "Postal Votes": 284,
-      "Total Votes": 67374
+      "Total Votes": 67374,
+      "Total Candidate": 5
     },
     "Bharatiya Praja Surajya Paksha": {
       "EVM Votes": 2725,
       "Postal Votes": 12,
-      "Total Votes": 2737
+      "Total Votes": 2737,
+      "Total Candidate": 2
     },
     "Akhil Bharatiya Muslim League (Secular)": {
       "EVM Votes": 818,
       "Postal Votes": 3,
-      "Total Votes": 821
+      "Total Votes": 821,
+      "Total Candidate": 1
     },
     "Bhartiya Jan Vikas Aaghadi": {
       "EVM Votes": 385,
       "Postal Votes": 6,
-      "Total Votes": 391
+      "Total Votes": 391,
+      "Total Candidate": 1
     },
     "Swarajya Shakti Sena": {
       "EVM Votes": 10739,
       "Postal Votes": 63,
-      "Total Votes": 10802
+      "Total Votes": 10802,
+      "Total Candidate": 4
     },
     "Swarajya Sena (Maharashtra)": {
       "EVM Votes": 2522,
       "Postal Votes": 11,
-      "Total Votes": 2533
+      "Total Votes": 2533,
+      "Total Candidate": 2
     },
     "Rashtriya Sant Sandesh Party": {
       "EVM Votes": 987,
       "Postal Votes": 7,
-      "Total Votes": 994
+      "Total Votes": 994,
+      "Total Candidate": 1
     },
     "Rashtriy Bahujan Party": {
       "EVM Votes": 790,
       "Postal Votes": 5,
-      "Total Votes": 795
+      "Total Votes": 795,
+      "Total Candidate": 1
     },
     "Bharat Peoples Sena": {
       "EVM Votes": 679,
       "Postal Votes": 4,
-      "Total Votes": 683
+      "Total Votes": 683,
+      "Total Candidate": 1
     },
     "National Black Panther Party": {
       "EVM Votes": 1982,
       "Postal Votes": 12,
-      "Total Votes": 1994
+      "Total Votes": 1994,
+      "Total Candidate": 2
     },
     "Bhartiya Rashtriya Dal": {
       "EVM Votes": 12095,
       "Postal Votes": 83,
-      "Total Votes": 12178
+      "Total Votes": 12178,
+      "Total Candidate": 6
     },
     "Naga Peoples Front": {
       "EVM Votes": 298358,
       "Postal Votes": 1178,
-      "Total Votes": 299536
+      "Total Votes": 299536,
+      "Total Candidate": 1
     },
     "National People's Party": {
       "EVM Votes": 415498,
       "Postal Votes": 2432,
-      "Total Votes": 417930
+      "Total Votes": 417930,
+      "Total Candidate": 3
     },
     "Nationalist Democratic Progressive Party": {
       "EVM Votes": 350072,
       "Postal Votes": 895,
-      "Total Votes": 350967
+      "Total Votes": 350967,
+      "Total Candidate": 1
     },
     "Shiromani Akali Dal": {
       "EVM Votes": 1808837,
       "Postal Votes": 5481,
-      "Total Votes": 1814318
+      "Total Votes": 1814318,
+      "Total Candidate": 13
     },
     "Megh Desham Party": {
       "EVM Votes": 1171,
       "Postal Votes": 23,
-      "Total Votes": 1194
+      "Total Votes": 1194,
+      "Total Candidate": 1
     },
     "National Republic Party Of India": {
       "EVM Votes": 653,
       "Postal Votes": 4,
-      "Total Votes": 657
+      "Total Votes": 657,
+      "Total Candidate": 1
     },
     "Nationalist Justice Party": {
       "EVM Votes": 8312,
       "Postal Votes": 45,
-      "Total Votes": 8357
+      "Total Votes": 8357,
+      "Total Candidate": 7
     },
     "Aas Punjab Party": {
       "EVM Votes": 8100,
       "Postal Votes": 14,
-      "Total Votes": 8114
+      "Total Votes": 8114,
+      "Total Candidate": 2
     },
     "Shiromani Lok Dal Party": {
       "EVM Votes": 1042,
       "Postal Votes": 2,
-      "Total Votes": 1044
+      "Total Votes": 1044,
+      "Total Candidate": 1
     },
     "Sacho Sach Party": {
       "EVM Votes": 650,
       "Postal Votes": 2,
-      "Total Votes": 652
+      "Total Votes": 652,
+      "Total Candidate": 1
     },
     "Apna Samaj Party": {
       "EVM Votes": 2076,
       "Postal Votes": 7,
-      "Total Votes": 2083
+      "Total Votes": 2083,
+      "Total Candidate": 2
     },
     "Sunahara Bharat Party": {
       "EVM Votes": 2091,
       "Postal Votes": 0,
-      "Total Votes": 2091
+      "Total Votes": 2091,
+      "Total Candidate": 1
     },
     "Sehajdhari Sikh Party": {
       "EVM Votes": 981,
       "Postal Votes": 6,
-      "Total Votes": 987
+      "Total Votes": 987,
+      "Total Candidate": 1
     },
     "Aam Lok Party United": {
       "EVM Votes": 693,
       "Postal Votes": 2,
-      "Total Votes": 695
+      "Total Votes": 695,
+      "Total Candidate": 1
     },
     "Bharatiya Inqalab Party": {
       "EVM Votes": 610,
       "Postal Votes": 0,
-      "Total Votes": 610
+      "Total Votes": 610,
+      "Total Candidate": 1
     },
     "Samajik Sangharsh Party": {
       "EVM Votes": 413,
       "Postal Votes": 6,
-      "Total Votes": 419
+      "Total Votes": 419,
+      "Total Candidate": 1
     },
     "Punjab National Party": {
       "EVM Votes": 4911,
       "Postal Votes": 23,
-      "Total Votes": 4934
+      "Total Votes": 4934,
+      "Total Candidate": 3
     },
     "Bhartiya Jan Samman Party": {
       "EVM Votes": 5897,
       "Postal Votes": 71,
-      "Total Votes": 5968
+      "Total Votes": 5968,
+      "Total Candidate": 3
     },
     "Jai Hind Congress Party": {
       "EVM Votes": 2075,
       "Postal Votes": 26,
-      "Total Votes": 2101
+      "Total Votes": 2101,
+      "Total Candidate": 1
     },
     "Bharat Rakshak Party (Democratic)": {
       "EVM Votes": 4937,
       "Postal Votes": 24,
-      "Total Votes": 4961
+      "Total Votes": 4961,
+      "Total Candidate": 1
     },
     "National Janmandal Party": {
       "EVM Votes": 1178,
       "Postal Votes": 15,
-      "Total Votes": 1193
+      "Total Votes": 1193,
+      "Total Candidate": 1
     },
     "Bahujan Kranti Party (Marxwad-Ambedkarwad)": {
       "EVM Votes": 922,
       "Postal Votes": 18,
-      "Total Votes": 940
+      "Total Votes": 940,
+      "Total Candidate": 1
     },
     "Rajasthan Raj Party": {
       "EVM Votes": 1253,
       "Postal Votes": 11,
-      "Total Votes": 1264
+      "Total Votes": 1264,
+      "Total Candidate": 1
     },
     "Desiya Murpokku Dravida Kazhagam": {
       "EVM Votes": 1123444,
       "Postal Votes": 5172,
-      "Total Votes": 1128616
+      "Total Votes": 1128616,
+      "Total Candidate": 5
     },
     "Naam Tamilar Katchi": {
       "EVM Votes": 3575712,
       "Postal Votes": 24376,
-      "Total Votes": 3600088
+      "Total Votes": 3600088,
+      "Total Candidate": 40
     },
     "Desiya Makkal Sakthi Katchi": {
       "EVM Votes": 11110,
       "Postal Votes": 101,
-      "Total Votes": 11211
+      "Total Votes": 11211,
+      "Total Candidate": 9
     },
     "Naadaalum Makkal Katchi": {
       "EVM Votes": 12655,
       "Postal Votes": 240,
-      "Total Votes": 12895
+      "Total Votes": 12895,
+      "Total Candidate": 12
     },
     "Anna MGR Dravida Makkal Kalgam": {
       "EVM Votes": 4520,
       "Postal Votes": 109,
-      "Total Votes": 4629
+      "Total Votes": 4629,
+      "Total Candidate": 5
     },
     "Bharatiya Praja Aikyata Party": {
       "EVM Votes": 25997,
       "Postal Votes": 274,
-      "Total Votes": 26271
+      "Total Votes": 26271,
+      "Total Candidate": 5
     },
     "Aravor Munnetra Kazhagam": {
       "EVM Votes": 8292,
       "Postal Votes": 53,
-      "Total Votes": 8345
+      "Total Votes": 8345,
+      "Total Candidate": 5
     },
     "Chennai Youth Party": {
       "EVM Votes": 2186,
       "Postal Votes": 9,
-      "Total Votes": 2195
+      "Total Votes": 2195,
+      "Total Candidate": 2
     },
     "Tamilar Makkal Katchi": {
       "EVM Votes": 1854,
       "Postal Votes": 50,
-      "Total Votes": 1904
+      "Total Votes": 1904,
+      "Total Candidate": 2
     },
     "Anaithu India Makkal Katchi": {
       "EVM Votes": 891,
       "Postal Votes": 46,
-      "Total Votes": 937
+      "Total Votes": 937,
+      "Total Candidate": 1
     },
     "Samaniya Makkal Nala Katchi": {
       "EVM Votes": 8949,
       "Postal Votes": 41,
-      "Total Votes": 8990
+      "Total Votes": 8990,
+      "Total Candidate": 9
     },
     "Ganasangam Party of India": {
       "EVM Votes": 7719,
       "Postal Votes": 57,
-      "Total Votes": 7776
+      "Total Votes": 7776,
+      "Total Candidate": 7
     },
     "Anti Corruption Dynamic Party": {
       "EVM Votes": 9081,
       "Postal Votes": 47,
-      "Total Votes": 9128
+      "Total Votes": 9128,
+      "Total Candidate": 5
     },
     "Pattali Makkal Katchi": {
       "EVM Votes": 1863026,
       "Postal Votes": 16663,
-      "Total Votes": 1879689
+      "Total Votes": 1879689,
+      "Total Candidate": 10
     },
     "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi": {
       "EVM Votes": 12699,
       "Postal Votes": 36,
-      "Total Votes": 12735
+      "Total Votes": 12735,
+      "Total Candidate": 9
     },
     "Vidiyalai Thedum Indhiyargal Party": {
       "EVM Votes": 1068,
       "Postal Votes": 5,
-      "Total Votes": 1073
+      "Total Votes": 1073,
+      "Total Candidate": 1
     },
     "Tamilaga Makkal Nala Katchi": {
       "EVM Votes": 753,
       "Postal Votes": 8,
-      "Total Votes": 761
+      "Total Votes": 761,
+      "Total Candidate": 1
     },
     "All India People Development Party": {
       "EVM Votes": 708,
       "Postal Votes": 3,
-      "Total Votes": 711
+      "Total Votes": 711,
+      "Total Candidate": 1
     },
     "Aanaithinthiya Jananayaka Pathukappu Kazhagam": {
       "EVM Votes": 2214,
       "Postal Votes": 30,
-      "Total Votes": 2244
+      "Total Votes": 2244,
+      "Total Candidate": 2
     },
     "Puthiya Makkal Tamil Desam Katchi": {
       "EVM Votes": 4727,
       "Postal Votes": 41,
-      "Total Votes": 4768
+      "Total Votes": 4768,
+      "Total Candidate": 3
     },
     "Nam India Naam Indiyar Katchi": {
       "EVM Votes": 790,
       "Postal Votes": 0,
-      "Total Votes": 790
+      "Total Votes": 790,
+      "Total Candidate": 1
     },
     "Punnagai Desam Party": {
       "EVM Votes": 1034,
       "Postal Votes": 6,
-      "Total Votes": 1040
+      "Total Votes": 1040,
+      "Total Candidate": 1
     },
     "Thakkam Katchi": {
       "EVM Votes": 3741,
       "Postal Votes": 44,
-      "Total Votes": 3785
+      "Total Votes": 3785,
+      "Total Candidate": 6
     },
     "Akhil Bhartiya Apna Dal": {
       "EVM Votes": 8676,
       "Postal Votes": 2,
-      "Total Votes": 8678
+      "Total Votes": 8678,
+      "Total Candidate": 1
     },
     "Bhartiya Panchsheel Party": {
       "EVM Votes": 4343,
       "Postal Votes": 2,
-      "Total Votes": 4345
+      "Total Votes": 4345,
+      "Total Candidate": 1
     },
     "Manavtawadi Samaj Party": {
       "EVM Votes": 7133,
       "Postal Votes": 3,
-      "Total Votes": 7136
+      "Total Votes": 7136,
+      "Total Candidate": 3
     },
     "Janshakti Samta Party": {
       "EVM Votes": 4569,
       "Postal Votes": 8,
-      "Total Votes": 4577
+      "Total Votes": 4577,
+      "Total Candidate": 1
     },
     "Rashtriya Narayanwadi Vikas Party": {
       "EVM Votes": 1525,
       "Postal Votes": 2,
-      "Total Votes": 1527
+      "Total Votes": 1527,
+      "Total Candidate": 1
     },
     "Samajhdar Party": {
       "EVM Votes": 18191,
       "Postal Votes": 32,
-      "Total Votes": 18223
+      "Total Votes": 18223,
+      "Total Candidate": 5
     },
     "Sanyogwadi Party": {
       "EVM Votes": 1124,
       "Postal Votes": 4,
-      "Total Votes": 1128
+      "Total Votes": 1128,
+      "Total Candidate": 1
     },
     "Samyak Party": {
       "EVM Votes": 5240,
       "Postal Votes": 10,
-      "Total Votes": 5250
+      "Total Votes": 5250,
+      "Total Candidate": 3
     },
     "Kamera Samaj Party": {
       "EVM Votes": 1177,
       "Postal Votes": 0,
-      "Total Votes": 1177
+      "Total Votes": 1177,
+      "Total Candidate": 1
     },
     "Public Adhikar Socialist Indian Party": {
       "EVM Votes": 1493,
       "Postal Votes": 0,
-      "Total Votes": 1493
+      "Total Votes": 1493,
+      "Total Candidate": 1
     },
     "Awami Samta Party": {
       "EVM Votes": 1189,
       "Postal Votes": 1,
-      "Total Votes": 1190
+      "Total Votes": 1190,
+      "Total Candidate": 1
     },
     "Dr. Bhimrao Ambedkar Dal": {
       "EVM Votes": 1076,
       "Postal Votes": 2,
-      "Total Votes": 1078
+      "Total Votes": 1078,
+      "Total Candidate": 1
     },
     "Bhartiya Lokmat Rashtrwadi Party": {
       "EVM Votes": 15355,
       "Postal Votes": 56,
-      "Total Votes": 15411
+      "Total Votes": 15411,
+      "Total Candidate": 5
     },
     "Rashtriya Secular Majlis Party": {
       "EVM Votes": 1130,
       "Postal Votes": 6,
-      "Total Votes": 1136
+      "Total Votes": 1136,
+      "Total Candidate": 1
     },
     "Jamat-E-Seratul Mustakim": {
       "EVM Votes": 737,
       "Postal Votes": 4,
-      "Total Votes": 741
+      "Total Votes": 741,
+      "Total Candidate": 1
     },
     "Bhartiya Janta Secular Party": {
       "EVM Votes": 1684,
       "Postal Votes": 1,
-      "Total Votes": 1685
+      "Total Votes": 1685,
+      "Total Candidate": 1
     },
     "New India Party": {
       "EVM Votes": 2234,
       "Postal Votes": 35,
-      "Total Votes": 2269
+      "Total Votes": 2269,
+      "Total Candidate": 1
     },
     "Prajarajya Samithi": {
       "EVM Votes": 1576,
       "Postal Votes": 38,
-      "Total Votes": 1614
+      "Total Votes": 1614,
+      "Total Candidate": 1
     },
     "Yuva Taram Party": {
       "EVM Votes": 1364,
       "Postal Votes": 5,
-      "Total Votes": 1369
+      "Total Votes": 1369,
+      "Total Candidate": 2
     },
     "Telangana Sakalajanula Party": {
       "EVM Votes": 10832,
       "Postal Votes": 27,
-      "Total Votes": 10859
+      "Total Votes": 10859,
+      "Total Candidate": 1
     },
     "Telangana Rashtra Punahnirmana Samithi": {
       "EVM Votes": 4431,
       "Postal Votes": 2,
-      "Total Votes": 4433
+      "Total Votes": 4433,
+      "Total Candidate": 1
     },
     "Prajavani  Party": {
       "EVM Votes": 1792,
       "Postal Votes": 0,
-      "Total Votes": 1792
+      "Total Votes": 1792,
+      "Total Candidate": 1
     },
     "People Protection Party": {
       "EVM Votes": 1734,
       "Postal Votes": 3,
-      "Total Votes": 1737
+      "Total Votes": 1737,
+      "Total Candidate": 1
     },
     "Aihra National Party": {
       "EVM Votes": 5829,
       "Postal Votes": 4,
-      "Total Votes": 5833
+      "Total Votes": 5833,
+      "Total Candidate": 2
     },
     "Mana Telangana Rashtra Samaikya Party": {
       "EVM Votes": 3625,
       "Postal Votes": 9,
-      "Total Votes": 3634
+      "Total Votes": 3634,
+      "Total Candidate": 1
     },
     "Sakala Janula Party": {
       "EVM Votes": 1322,
       "Postal Votes": 2,
-      "Total Votes": 1324
+      "Total Votes": 1324,
+      "Total Candidate": 2
     },
     "Nationalist Congress Party": {
       "EVM Votes": 2053955,
       "Postal Votes": 5224,
-      "Total Votes": 2059179
+      "Total Votes": 2059179,
+      "Total Candidate": 5
     },
     "United Republican Party of India": {
       "EVM Votes": 10931,
       "Postal Votes": 66,
-      "Total Votes": 10997
+      "Total Votes": 10997,
+      "Total Candidate": 7
     },
     "Rashtriya Mazdoor Ekta Party": {
       "EVM Votes": 781,
       "Postal Votes": 10,
-      "Total Votes": 791
+      "Total Votes": 791,
+      "Total Candidate": 1
     },
     "Akhand Bharat Swatantra Party": {
       "EVM Votes": 776,
       "Postal Votes": 4,
-      "Total Votes": 780
+      "Total Votes": 780,
+      "Total Candidate": 1
     },
     "Vishal Janta Party": {
       "EVM Votes": 1419,
       "Postal Votes": 2,
-      "Total Votes": 1421
+      "Total Votes": 1421,
+      "Total Candidate": 1
     },
     "Jai Samta Party": {
       "EVM Votes": 8904,
       "Postal Votes": 29,
-      "Total Votes": 8933
+      "Total Votes": 8933,
+      "Total Candidate": 2
     },
     "Apna Haq Party": {
       "EVM Votes": 4084,
       "Postal Votes": 10,
-      "Total Votes": 4094
+      "Total Votes": 4094,
+      "Total Candidate": 1
     },
     "Bharatiya Bahujan Samta Party": {
       "EVM Votes": 1449,
       "Postal Votes": 10,
-      "Total Votes": 1459
+      "Total Votes": 1459,
+      "Total Candidate": 1
     },
     "Rashtriya Congress(J) Party": {
       "EVM Votes": 629,
       "Postal Votes": 56,
-      "Total Votes": 685
+      "Total Votes": 685,
+      "Total Candidate": 1
     },
     "Janta Shashan Party": {
       "EVM Votes": 1940,
       "Postal Votes": 2,
-      "Total Votes": 1942
+      "Total Votes": 1942,
+      "Total Candidate": 1
     },
     "Kisan Kranti Dal": {
       "EVM Votes": 5145,
       "Postal Votes": 8,
-      "Total Votes": 5153
+      "Total Votes": 5153,
+      "Total Candidate": 2
     },
     "Vanchitsamaj Insaaf Party": {
       "EVM Votes": 3328,
       "Postal Votes": 2,
-      "Total Votes": 3330
+      "Total Votes": 3330,
+      "Total Candidate": 1
     },
     "Rashtriya Vikalp Party": {
       "EVM Votes": 1266,
       "Postal Votes": 3,
-      "Total Votes": 1269
+      "Total Votes": 1269,
+      "Total Candidate": 1
     },
     "Netaji Subhash Chander Bose Rashtriya Azad Party": {
       "EVM Votes": 1018,
       "Postal Votes": 1,
-      "Total Votes": 1019
+      "Total Votes": 1019,
+      "Total Candidate": 1
     },
     "Janta Kranti Party": {
       "EVM Votes": 935,
       "Postal Votes": 1,
-      "Total Votes": 936
+      "Total Votes": 936,
+      "Total Candidate": 1
     },
     "Uttar Pradesh Republican Party": {
       "EVM Votes": 845,
       "Postal Votes": 9,
-      "Total Votes": 854
+      "Total Votes": 854,
+      "Total Candidate": 1
     },
     "Political Justice Party": {
       "EVM Votes": 5020,
       "Postal Votes": 3,
-      "Total Votes": 5023
+      "Total Votes": 5023,
+      "Total Candidate": 1
     },
     "Apna Desh Party": {
       "EVM Votes": 4295,
       "Postal Votes": 2,
-      "Total Votes": 4297
+      "Total Votes": 4297,
+      "Total Candidate": 1
     },
     "Azad Party": {
       "EVM Votes": 2305,
       "Postal Votes": 6,
-      "Total Votes": 2311
+      "Total Votes": 2311,
+      "Total Candidate": 1
     },
     "Most Backward Classes Of India": {
       "EVM Votes": 2085,
       "Postal Votes": 5,
-      "Total Votes": 2090
+      "Total Votes": 2090,
+      "Total Candidate": 1
     },
     "Hindustan Samaj Party": {
       "EVM Votes": 4984,
       "Postal Votes": 7,
-      "Total Votes": 4991
+      "Total Votes": 4991,
+      "Total Candidate": 1
     },
     "Rastriya Atal Janta Party": {
       "EVM Votes": 1113,
       "Postal Votes": 3,
-      "Total Votes": 1116
+      "Total Votes": 1116,
+      "Total Candidate": 1
     },
     "Janta Samajwadi Party (Vivek Raj)": {
       "EVM Votes": 1569,
       "Postal Votes": 5,
-      "Total Votes": 1574
+      "Total Votes": 1574,
+      "Total Candidate": 1
     },
     "Eklavya Samaj Party": {
       "EVM Votes": 8347,
       "Postal Votes": 5,
-      "Total Votes": 8352
+      "Total Votes": 8352,
+      "Total Candidate": 2
     },
     "Spashtwadi Jan Aadhar Party": {
       "EVM Votes": 2003,
       "Postal Votes": 0,
-      "Total Votes": 2003
+      "Total Votes": 2003,
+      "Total Candidate": 1
     },
     "Vikas Insaf Party": {
       "EVM Votes": 2028,
       "Postal Votes": 5,
-      "Total Votes": 2033
+      "Total Votes": 2033,
+      "Total Candidate": 1
     },
     "Vishwa Kalyan Rashtriya Manav Samaj Party": {
       "EVM Votes": 6670,
       "Postal Votes": 8,
-      "Total Votes": 6678
+      "Total Votes": 6678,
+      "Total Candidate": 2
     },
     "Bharat Mahaparivar Party": {
       "EVM Votes": 4577,
       "Postal Votes": 5,
-      "Total Votes": 4582
+      "Total Votes": 4582,
+      "Total Candidate": 2
     },
     "Adarshwaadi Congress Party": {
       "EVM Votes": 1163,
       "Postal Votes": 10,
-      "Total Votes": 1173
+      "Total Votes": 1173,
+      "Total Candidate": 1
     },
     "Rashtriya Janta Party": {
       "EVM Votes": 1317,
       "Postal Votes": 2,
-      "Total Votes": 1319
+      "Total Votes": 1319,
+      "Total Candidate": 1
     },
     "Sarvjan Awaz Party": {
       "EVM Votes": 2229,
       "Postal Votes": 10,
-      "Total Votes": 2239
+      "Total Votes": 2239,
+      "Total Candidate": 1
     },
     "Janta Kranti Party (Rashtravadi)": {
       "EVM Votes": 18341,
       "Postal Votes": 60,
-      "Total Votes": 18401
+      "Total Votes": 18401,
+      "Total Candidate": 4
     },
     "Jan Raajya Party": {
       "EVM Votes": 3370,
       "Postal Votes": 6,
-      "Total Votes": 3376
+      "Total Votes": 3376,
+      "Total Candidate": 2
     },
     "Suheldev Bharatiya Samaj Party": {
       "EVM Votes": 339416,
       "Postal Votes": 772,
-      "Total Votes": 340188
+      "Total Votes": 340188,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Hamara Samaj Party": {
       "EVM Votes": 4211,
       "Postal Votes": 14,
-      "Total Votes": 4225
+      "Total Votes": 4225,
+      "Total Candidate": 1
     },
     "Rashtriya Jantantrik Bharat Vikas Party": {
       "EVM Votes": 2344,
       "Postal Votes": 3,
-      "Total Votes": 2347
+      "Total Votes": 2347,
+      "Total Candidate": 1
     },
     "Mang Samaj Party": {
       "EVM Votes": 1895,
       "Postal Votes": 10,
-      "Total Votes": 1905
+      "Total Votes": 1905,
+      "Total Candidate": 1
     },
     "Janlok Vikas Party": {
       "EVM Votes": 1473,
       "Postal Votes": 0,
-      "Total Votes": 1473
+      "Total Votes": 1473,
+      "Total Candidate": 1
     },
     "Bhartiya Sabka Dal": {
       "EVM Votes": 827,
       "Postal Votes": 14,
-      "Total Votes": 841
+      "Total Votes": 841,
+      "Total Candidate": 1
     },
     "Aawami Pichhada Party": {
       "EVM Votes": 592,
       "Postal Votes": 2,
-      "Total Votes": 594
+      "Total Votes": 594,
+      "Total Candidate": 1
     },
     "Akhil Bhartiya Sarvjan Hit Party": {
       "EVM Votes": 3878,
       "Postal Votes": 14,
-      "Total Votes": 3892
+      "Total Votes": 3892,
+      "Total Candidate": 1
     },
     "Pachchasi Parivartan Samaj Party": {
       "EVM Votes": 802,
       "Postal Votes": 0,
-      "Total Votes": 802
+      "Total Votes": 802,
+      "Total Candidate": 1
     },
     "Samaj Parivartan Party": {
       "EVM Votes": 5296,
       "Postal Votes": 7,
-      "Total Votes": 5303
+      "Total Votes": 5303,
+      "Total Candidate": 1
     },
     "Prithviraj Janshakti Party": {
       "EVM Votes": 1362,
       "Postal Votes": 2,
-      "Total Votes": 1364
+      "Total Votes": 1364,
+      "Total Candidate": 1
     },
     "Bhartiya Lokvani Party": {
       "EVM Votes": 1949,
       "Postal Votes": 7,
-      "Total Votes": 1956
+      "Total Votes": 1956,
+      "Total Candidate": 1
     },
     "Apna Dal (Soneylal)": {
       "EVM Votes": 807210,
       "Postal Votes": 1035,
-      "Total Votes": 808245
+      "Total Votes": 808245,
+      "Total Candidate": 2
     },
     "Janhit Sankalp Party": {
       "EVM Votes": 8191,
       "Postal Votes": 3,
-      "Total Votes": 8194
+      "Total Votes": 8194,
+      "Total Candidate": 1
     },
     "All India Arya Mahasabha": {
       "EVM Votes": 7324,
       "Postal Votes": 21,
-      "Total Votes": 7345
+      "Total Votes": 7345,
+      "Total Candidate": 3
     },
     "Indian National Socialistic Action Forces": {
       "EVM Votes": 5749,
       "Postal Votes": 32,
-      "Total Votes": 5781
+      "Total Votes": 5781,
+      "Total Candidate": 4
     },
     "Democratic Socialist Party of India": {
       "EVM Votes": 880,
       "Postal Votes": 5,
-      "Total Votes": 885
+      "Total Votes": 885,
+      "Total Candidate": 1
     },
     "Mera Bharat Mahan Party": {
       "EVM Votes": 602,
       "Postal Votes": 2,
-      "Total Votes": 604
+      "Total Votes": 604,
+      "Total Candidate": 1
     },
     "Mission Naya Digant Party": {
       "EVM Votes": 768,
       "Postal Votes": 4,
-      "Total Votes": 772
+      "Total Votes": 772,
+      "Total Candidate": 1
     },
     "Indian Unity Centre": {
       "EVM Votes": 1568,
       "Postal Votes": 4,
-      "Total Votes": 1572
+      "Total Votes": 1572,
+      "Total Candidate": 1
     },
     "Jharkhand People's Party": {
       "EVM Votes": 19408,
       "Postal Votes": 86,
-      "Total Votes": 19494
+      "Total Votes": 19494,
+      "Total Candidate": 1
     },
     "Dravida Munnetra Kazhagam": {
       "EVM Votes": 11689879,
       "Postal Votes": 64831,
-      "Total Votes": 11754710
+      "Total Votes": 11754710,
+      "Total Candidate": 22
     },
     "Republican Party of India  (Sivaraj)": {
       "EVM Votes": 258,
       "Postal Votes": 1,
-      "Total Votes": 259
+      "Total Votes": 259,
+      "Total Candidate": 1
     },
     "Jebamani Janata": {
       "EVM Votes": 4343,
       "Postal Votes": 13,
-      "Total Votes": 4356
+      "Total Votes": 4356,
+      "Total Candidate": 2
     },
     "Mahathma Makkal Munnetra Kazhakam": {
       "EVM Votes": 2972,
       "Postal Votes": 9,
-      "Total Votes": 2981
+      "Total Votes": 2981,
+      "Total Candidate": 2
     },
     "Tamizhaga Murpokku Makkal Katchi": {
       "EVM Votes": 1481,
       "Postal Votes": 7,
-      "Total Votes": 1488
+      "Total Votes": 1488,
+      "Total Candidate": 3
     },
     "Tamilnadu Makkal Nalvazhvu Periyakkam": {
       "EVM Votes": 311,
       "Postal Votes": 3,
-      "Total Votes": 314
+      "Total Votes": 314,
+      "Total Candidate": 1
     },
     "Tamil Maanila Congress  (Moopanar)": {
       "EVM Votes": 408182,
       "Postal Votes": 2219,
-      "Total Votes": 410401
+      "Total Votes": 410401,
+      "Total Candidate": 3
     },
     "Tamil Manila Murpokku Dravida Kazhagam": {
       "EVM Votes": 2245,
       "Postal Votes": 70,
-      "Total Votes": 2315
+      "Total Votes": 2315,
+      "Total Candidate": 2
     },
     "All India Jananayaka Makkal Kazhagam": {
       "EVM Votes": 624,
       "Postal Votes": 9,
-      "Total Votes": 633
+      "Total Votes": 633,
+      "Total Candidate": 1
     },
     "Dhesiya Makkal Kazhagam": {
       "EVM Votes": 8071,
       "Postal Votes": 18,
-      "Total Votes": 8089
+      "Total Votes": 8089,
+      "Total Candidate": 2
     },
     "All India Uzhavargal Uzhaippalargal Katchi": {
       "EVM Votes": 934,
       "Postal Votes": 16,
-      "Total Votes": 950
+      "Total Votes": 950,
+      "Total Candidate": 1
     },
     "Makkal Nala Kazhagam": {
       "EVM Votes": 716,
       "Postal Votes": 20,
-      "Total Votes": 736
+      "Total Votes": 736,
+      "Total Candidate": 1
     },
     "Anna Makkal Katchi": {
       "EVM Votes": 2497,
       "Postal Votes": 8,
-      "Total Votes": 2505
+      "Total Votes": 2505,
+      "Total Candidate": 1
     },
     "Ulzaipali Makkal Katchy": {
       "EVM Votes": 1917,
       "Postal Votes": 12,
-      "Total Votes": 1929
+      "Total Votes": 1929,
+      "Total Candidate": 3
     },
     "Viduthalai Kalam Katchi": {
       "EVM Votes": 2592,
       "Postal Votes": 7,
-      "Total Votes": 2599
+      "Total Votes": 2599,
+      "Total Candidate": 1
     },
     "Ahimsa Socialist Party": {
       "EVM Votes": 2412,
       "Postal Votes": 9,
-      "Total Votes": 2421
+      "Total Votes": 2421,
+      "Total Candidate": 1
     },
     "Tamilaga Makkal Thannurimai Katchi": {
       "EVM Votes": 4010,
       "Postal Votes": 23,
-      "Total Votes": 4033
+      "Total Votes": 4033,
+      "Total Candidate": 2
     },
     "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam": {
       "EVM Votes": 3011,
       "Postal Votes": 67,
-      "Total Votes": 3078
+      "Total Votes": 3078,
+      "Total Candidate": 2
     },
     "New Generation People’s Party": {
       "EVM Votes": 1127,
       "Postal Votes": 6,
-      "Total Votes": 1133
+      "Total Votes": 1133,
+      "Total Candidate": 1
     },
     "Amma Makkal Munnettra Kazagam": {
       "EVM Votes": 389470,
       "Postal Votes": 3945,
-      "Total Votes": 393415
+      "Total Votes": 393415,
+      "Total Candidate": 2
     },
     "Humanity for Peace Party": {
       "EVM Votes": 1905,
       "Postal Votes": 30,
-      "Total Votes": 1935
+      "Total Votes": 1935,
+      "Total Candidate": 1
     },
     "All India Youth Development Party": {
       "EVM Votes": 3489,
       "Postal Votes": 39,
-      "Total Votes": 3528
+      "Total Votes": 3528,
+      "Total Candidate": 2
     },
     "Naam Indiar Party": {
       "EVM Votes": 6622,
       "Postal Votes": 18,
-      "Total Votes": 6640
+      "Total Votes": 6640,
+      "Total Candidate": 1
     },
     "Makkal Nalvaazhvuk Katchi": {
       "EVM Votes": 1736,
       "Postal Votes": 56,
-      "Total Votes": 1792
+      "Total Votes": 1792,
+      "Total Candidate": 1
     },
     "Telugu Desam": {
       "EVM Votes": 12569179,
       "Postal Votes": 206091,
-      "Total Votes": 12775270
+      "Total Votes": 12775270,
+      "Total Candidate": 17
     },
     "Praja Shanthi Party": {
       "EVM Votes": 7529,
       "Postal Votes": 167,
-      "Total Votes": 7696
+      "Total Votes": 7696,
+      "Total Candidate": 1
     },
     "Praja Prasthanam Party": {
       "EVM Votes": 628,
       "Postal Votes": 5,
-      "Total Votes": 633
+      "Total Votes": 633,
+      "Total Candidate": 1
     },
     "Navataram Party": {
       "EVM Votes": 16618,
       "Postal Votes": 246,
-      "Total Votes": 16864
+      "Total Votes": 16864,
+      "Total Candidate": 4
     },
     "Telugu Nava Garjana Party": {
       "EVM Votes": 3736,
       "Postal Votes": 5,
-      "Total Votes": 3741
+      "Total Votes": 3741,
+      "Total Candidate": 1
     },
     "Jatiya Jana Sena Party": {
       "EVM Votes": 22194,
       "Postal Votes": 741,
-      "Total Votes": 22935
+      "Total Votes": 22935,
+      "Total Candidate": 7
     },
     "Republican Party of India": {
       "EVM Votes": 3185,
       "Postal Votes": 19,
-      "Total Votes": 3204
+      "Total Votes": 3204,
+      "Total Candidate": 4
     },
     "Liberation Congress Party": {
       "EVM Votes": 8653,
       "Postal Votes": 247,
-      "Total Votes": 8900
+      "Total Votes": 8900,
+      "Total Candidate": 8
     },
     "Andhra Rastra Praja Samithi": {
       "EVM Votes": 6713,
       "Postal Votes": 133,
-      "Total Votes": 6846
+      "Total Votes": 6846,
+      "Total Candidate": 3
     },
     "Telugu Rajadhikara Samiti Party": {
       "EVM Votes": 5870,
       "Postal Votes": 36,
-      "Total Votes": 5906
+      "Total Votes": 5906,
+      "Total Candidate": 3
     },
     "All India Jaihind Party": {
       "EVM Votes": 268,
       "Postal Votes": 1,
-      "Total Votes": 269
+      "Total Votes": 269,
+      "Total Candidate": 1
     },
     "Jana Sahayaka Sakthi": {
       "EVM Votes": 1631,
       "Postal Votes": 13,
-      "Total Votes": 1644
+      "Total Votes": 1644,
+      "Total Candidate": 2
     },
     "Bengaluru Nava Nirmana Party": {
       "EVM Votes": 461,
       "Postal Votes": 0,
-      "Total Votes": 461
+      "Total Votes": 461,
+      "Total Candidate": 1
     },
     "Navodayam Party": {
       "EVM Votes": 409,
       "Postal Votes": 5,
-      "Total Votes": 414
+      "Total Votes": 414,
+      "Total Candidate": 1
     },
     "Andhra Pradesh Rashtra Samithi": {
       "EVM Votes": 353,
       "Postal Votes": 5,
-      "Total Votes": 358
+      "Total Votes": 358,
+      "Total Candidate": 1
     },
     "Loktantrik Janta Dal": {
       "EVM Votes": 304,
       "Postal Votes": 12,
-      "Total Votes": 316
+      "Total Votes": 316,
+      "Total Candidate": 1
     },
     "All Peoples Party": {
       "EVM Votes": 1484,
       "Postal Votes": 11,
-      "Total Votes": 1495
+      "Total Votes": 1495,
+      "Total Candidate": 3
     },
     "Jaathia Chethi Vruthula Ikya Vedika Party": {
       "EVM Votes": 5532,
       "Postal Votes": 36,
-      "Total Votes": 5568
+      "Total Votes": 5568,
+      "Total Candidate": 5
     },
     "Neethi Nijayithi Party": {
       "EVM Votes": 428,
       "Postal Votes": 2,
-      "Total Votes": 430
+      "Total Votes": 430,
+      "Total Candidate": 1
     },
     "All India Kisan Janatha party": {
       "EVM Votes": 574,
       "Postal Votes": 4,
-      "Total Votes": 578
+      "Total Votes": 578,
+      "Total Candidate": 1
     },
     "Bhartiya Panchyat Party": {
       "EVM Votes": 489,
       "Postal Votes": 5,
-      "Total Votes": 494
+      "Total Votes": 494,
+      "Total Candidate": 1
     },
     "Radical Party of India (Ambedkarist)": {
       "EVM Votes": 452,
       "Postal Votes": 2,
-      "Total Votes": 454
+      "Total Votes": 454,
+      "Total Candidate": 1
     },
     "Prabal Bharat Party": {
       "EVM Votes": 2097,
       "Postal Votes": 2,
-      "Total Votes": 2099
+      "Total Votes": 2099,
+      "Total Candidate": 1
     },
     "Aadarsh Mithila Party": {
       "EVM Votes": 29495,
       "Postal Votes": 55,
-      "Total Votes": 29550
+      "Total Votes": 29550,
+      "Total Candidate": 3
     },
     "Jai Hind Party": {
       "EVM Votes": 12971,
       "Postal Votes": 43,
-      "Total Votes": 13014
+      "Total Votes": 13014,
+      "Total Candidate": 1
     },
     "Bharat Nirman Party": {
       "EVM Votes": 3770,
       "Postal Votes": 2,
-      "Total Votes": 3772
+      "Total Votes": 3772,
+      "Total Candidate": 1
     },
     "Yuva Krantikari Party": {
       "EVM Votes": 8720,
       "Postal Votes": 16,
-      "Total Votes": 8736
+      "Total Votes": 8736,
+      "Total Candidate": 1
     },
     "Lok Sewa Dal": {
       "EVM Votes": 3509,
       "Postal Votes": 10,
-      "Total Votes": 3519
+      "Total Votes": 3519,
+      "Total Candidate": 1
     },
     "Bhartiya Dalit Party": {
       "EVM Votes": 11080,
       "Postal Votes": 59,
-      "Total Votes": 11139
+      "Total Votes": 11139,
+      "Total Candidate": 2
     },
     "Aam Janta Party Rashtriya": {
       "EVM Votes": 9680,
       "Postal Votes": 80,
-      "Total Votes": 9760
+      "Total Votes": 9760,
+      "Total Candidate": 2
     },
     "Hindustan People's Party (Democratic)": {
       "EVM Votes": 10933,
       "Postal Votes": 59,
-      "Total Votes": 10992
+      "Total Votes": 10992,
+      "Total Candidate": 2
     },
     "Sanyukt Kisan Vikas Party": {
       "EVM Votes": 25286,
       "Postal Votes": 5,
-      "Total Votes": 25291
+      "Total Votes": 25291,
+      "Total Candidate": 1
     },
     "Pragatisheel Magahi Samaj": {
       "EVM Votes": 2456,
       "Postal Votes": 12,
-      "Total Votes": 2468
+      "Total Votes": 2468,
+      "Total Candidate": 1
     },
     "Sankhyanupati Bhagidari Party": {
       "EVM Votes": 1937,
       "Postal Votes": 12,
-      "Total Votes": 1949
+      "Total Votes": 1949,
+      "Total Candidate": 1
     },
     "Samajwadi Lok Parishad": {
       "EVM Votes": 1867,
       "Postal Votes": 13,
-      "Total Votes": 1880
+      "Total Votes": 1880,
+      "Total Candidate": 1
     },
     "Rashtriya Kisan Bahujan Party": {
       "EVM Votes": 12270,
       "Postal Votes": 39,
-      "Total Votes": 12309
+      "Total Votes": 12309,
+      "Total Candidate": 5
     },
     "Abhinav Bharat Janseva Paksh": {
       "EVM Votes": 1590,
       "Postal Votes": 12,
-      "Total Votes": 1602
+      "Total Votes": 1602,
+      "Total Candidate": 1
     },
     "Jai Sewalal Bahujan Vikas Party": {
       "EVM Votes": 3617,
       "Postal Votes": 11,
-      "Total Votes": 3628
+      "Total Votes": 3628,
+      "Total Candidate": 1
     },
     "Dharmarajya Paksha": {
       "EVM Votes": 5230,
       "Postal Votes": 3,
-      "Total Votes": 5233
+      "Total Votes": 5233,
+      "Total Candidate": 2
     },
     "Bhartiya Asmita Party": {
       "EVM Votes": 1867,
       "Postal Votes": 7,
-      "Total Votes": 1874
+      "Total Votes": 1874,
+      "Total Candidate": 1
     },
     "Dalit Soshit Pichhara Varg  Adhikar Dal": {
       "EVM Votes": 2333,
       "Postal Votes": 9,
-      "Total Votes": 2342
+      "Total Votes": 2342,
+      "Total Candidate": 2
     },
     "Rashtriya Janhit Sangharsh Party": {
       "EVM Votes": 1085,
       "Postal Votes": 5,
-      "Total Votes": 1090
+      "Total Votes": 1090,
+      "Total Candidate": 1
     },
     "Aim Political Party": {
       "EVM Votes": 1709,
       "Postal Votes": 6,
-      "Total Votes": 1715
+      "Total Votes": 1715,
+      "Total Candidate": 1
     },
     "Rashtriya Jankranti Party": {
       "EVM Votes": 7581,
       "Postal Votes": 65,
-      "Total Votes": 7646
+      "Total Votes": 7646,
+      "Total Candidate": 3
     },
     "Aadarsh Sangram Party": {
       "EVM Votes": 855,
       "Postal Votes": 10,
-      "Total Votes": 865
+      "Total Votes": 865,
+      "Total Candidate": 1
     },
     "Vidarbha Rajya Aghadi": {
       "EVM Votes": 1819,
       "Postal Votes": 9,
-      "Total Votes": 1828
+      "Total Votes": 1828,
+      "Total Candidate": 1
     },
     "New Rashtriya Samaj Party": {
       "EVM Votes": 82951,
       "Postal Votes": 95,
-      "Total Votes": 83046
+      "Total Votes": 83046,
+      "Total Candidate": 2
     },
     "Sanyukt Bharat Paksh": {
       "EVM Votes": 3651,
       "Postal Votes": 5,
-      "Total Votes": 3656
+      "Total Votes": 3656,
+      "Total Candidate": 2
     },
     "Bhartiya Manavta Party": {
       "EVM Votes": 2423,
       "Postal Votes": 3,
-      "Total Votes": 2426
+      "Total Votes": 2426,
+      "Total Candidate": 2
     },
     "Bhartiya Navjawan Sena (Paksha)": {
       "EVM Votes": 5166,
       "Postal Votes": 17,
-      "Total Votes": 5183
+      "Total Votes": 5183,
+      "Total Candidate": 3
     },
     "People’s Union Party": {
       "EVM Votes": 2007,
       "Postal Votes": 2,
-      "Total Votes": 2009
+      "Total Votes": 2009,
+      "Total Candidate": 1
     },
     "Lok Sena Party": {
       "EVM Votes": 2348,
       "Postal Votes": 2,
-      "Total Votes": 2350
+      "Total Votes": 2350,
+      "Total Candidate": 1
     },
     "Bharatiya Lokvikas Party": {
       "EVM Votes": 721,
       "Postal Votes": 2,
-      "Total Votes": 723
+      "Total Votes": 723,
+      "Total Candidate": 1
     },
     "Rashtriya Janmanch (Secular)": {
       "EVM Votes": 1330,
       "Postal Votes": 3,
-      "Total Votes": 1333
+      "Total Votes": 1333,
+      "Total Candidate": 1
     },
     "Ambedkarist Republican Party": {
       "EVM Votes": 1718,
       "Postal Votes": 9,
-      "Total Votes": 1727
+      "Total Votes": 1727,
+      "Total Candidate": 2
     },
     "All India National Raksha Sena": {
       "EVM Votes": 393,
       "Postal Votes": 3,
-      "Total Votes": 396
+      "Total Votes": 396,
+      "Total Candidate": 1
     },
     "Republican Bahujan Sena": {
       "EVM Votes": 3137,
       "Postal Votes": 24,
-      "Total Votes": 3161
+      "Total Votes": 3161,
+      "Total Candidate": 2
     },
     "Bharat Jan Aadhar Party": {
       "EVM Votes": 1667,
       "Postal Votes": 8,
-      "Total Votes": 1675
+      "Total Votes": 1675,
+      "Total Candidate": 1
     },
     "Swabhimani Paksha": {
       "EVM Votes": 184357,
       "Postal Votes": 1014,
-      "Total Votes": 185371
+      "Total Votes": 185371,
+      "Total Candidate": 2
     },
     "Kamgaar Kisan Party": {
       "EVM Votes": 1697,
       "Postal Votes": 4,
-      "Total Votes": 1701
+      "Total Votes": 1701,
+      "Total Candidate": 1
     },
     "Bharatiya Lokshakti Party": {
       "EVM Votes": 1520,
       "Postal Votes": 17,
-      "Total Votes": 1537
+      "Total Votes": 1537,
+      "Total Candidate": 1
     },
     "Lokrajya Janata Party": {
       "EVM Votes": 1054,
       "Postal Votes": 7,
-      "Total Votes": 1061
+      "Total Votes": 1061,
+      "Total Candidate": 1
     },
     "Lok Janshakti Party(Ram Vilas)": {
       "EVM Votes": 2803936,
       "Postal Votes": 6314,
-      "Total Votes": 2810250
+      "Total Votes": 2810250,
+      "Total Candidate": 5
     },
     "Hindustan Janta Party Secular": {
       "EVM Votes": 1360,
       "Postal Votes": 6,
-      "Total Votes": 1366
+      "Total Votes": 1366,
+      "Total Candidate": 1
     },
     "Yuva Bihar Sena": {
       "EVM Votes": 1983,
       "Postal Votes": 7,
-      "Total Votes": 1990
+      "Total Votes": 1990,
+      "Total Candidate": 1
     },
     "Janshakti Janta Dal": {
       "EVM Votes": 1308,
       "Postal Votes": 10,
-      "Total Votes": 1318
+      "Total Votes": 1318,
+      "Total Candidate": 1
     },
     "Sathi Aur Aapka Faisala Party": {
       "EVM Votes": 2665,
       "Postal Votes": 1,
-      "Total Votes": 2666
+      "Total Votes": 2666,
+      "Total Candidate": 1
     },
     "Rashtriya Jan Kalyan Party Secular": {
       "EVM Votes": 19487,
       "Postal Votes": 8,
-      "Total Votes": 19495
+      "Total Votes": 19495,
+      "Total Candidate": 1
     },
     "Loktantrik Samajik Nyay Party": {
       "EVM Votes": 6532,
       "Postal Votes": 10,
-      "Total Votes": 6542
+      "Total Votes": 6542,
+      "Total Candidate": 1
     },
     "Rayalaseema Rashtra Samithi": {
       "EVM Votes": 2329,
       "Postal Votes": 4,
-      "Total Votes": 2333
+      "Total Votes": 2333,
+      "Total Candidate": 1
     },
     "Indian Believers Party (IBP)": {
       "EVM Votes": 1237,
       "Postal Votes": 2,
-      "Total Votes": 1239
+      "Total Votes": 1239,
+      "Total Candidate": 1
     },
     "Jai Hindustan Party": {
       "EVM Votes": 711,
       "Postal Votes": 0,
-      "Total Votes": 711
+      "Total Votes": 711,
+      "Total Candidate": 1
     },
     "Ambedkar National Congress": {
       "EVM Votes": 688,
       "Postal Votes": 0,
-      "Total Votes": 688
+      "Total Votes": 688,
+      "Total Candidate": 1
     },
     "Hindustan Vikas Dal": {
       "EVM Votes": 15139,
       "Postal Votes": 1,
-      "Total Votes": 15140
+      "Total Votes": 15140,
+      "Total Candidate": 1
     },
     "Rashtrawadi Chetna Party": {
       "EVM Votes": 3914,
       "Postal Votes": 1,
-      "Total Votes": 3915
+      "Total Votes": 3915,
+      "Total Candidate": 1
     },
     "Adarsh Jankalyan Dal": {
       "EVM Votes": 1816,
       "Postal Votes": 1,
-      "Total Votes": 1817
+      "Total Votes": 1817,
+      "Total Candidate": 1
     },
     "Hamara Sahara Party": {
       "EVM Votes": 1607,
       "Postal Votes": 7,
-      "Total Votes": 1614
+      "Total Votes": 1614,
+      "Total Candidate": 1
     },
     "Rashtriya Jan Jan Party": {
       "EVM Votes": 12954,
       "Postal Votes": 259,
-      "Total Votes": 13213
+      "Total Votes": 13213,
+      "Total Candidate": 1
     },
     "Shoshit Samaj Dal": {
       "EVM Votes": 4611,
       "Postal Votes": 7,
-      "Total Votes": 4618
+      "Total Votes": 4618,
+      "Total Candidate": 1
     },
     "Akhil Hind Forward Bloc (Krantikari)": {
       "EVM Votes": 9895,
       "Postal Votes": 7,
-      "Total Votes": 9902
+      "Total Votes": 9902,
+      "Total Candidate": 2
     },
     "Ummeed Party of India": {
       "EVM Votes": 2885,
       "Postal Votes": 59,
-      "Total Votes": 2944
+      "Total Votes": 2944,
+      "Total Candidate": 1
     },
     "Bhartiya Party": {
       "EVM Votes": 1516,
       "Postal Votes": 33,
-      "Total Votes": 1549
+      "Total Votes": 1549,
+      "Total Candidate": 1
     },
     "Indian Union Muslim League": {
       "EVM Votes": 1706529,
       "Postal Votes": 9657,
-      "Total Votes": 1716186
+      "Total Votes": 1716186,
+      "Total Candidate": 3
     },
     "Samaj Bhalai Morcha": {
       "EVM Votes": 923,
       "Postal Votes": 7,
-      "Total Votes": 930
+      "Total Votes": 930,
+      "Total Candidate": 1
     },
     "Apni Ekta Party": {
       "EVM Votes": 5131,
       "Postal Votes": 8,
-      "Total Votes": 5139
+      "Total Votes": 5139,
+      "Total Candidate": 1
     },
     "Adarsh Janta Party,": {
       "EVM Votes": 1376,
       "Postal Votes": 0,
-      "Total Votes": 1376
+      "Total Votes": 1376,
+      "Total Candidate": 1
     },
     "Navyug Pragatisheel Morcha": {
       "EVM Votes": 2777,
       "Postal Votes": 2,
-      "Total Votes": 2779
+      "Total Votes": 2779,
+      "Total Candidate": 1
     },
     "Jharkhand Mukti Morcha  (Ulgulan)": {
       "EVM Votes": 2597,
       "Postal Votes": 18,
-      "Total Votes": 2615
+      "Total Votes": 2615,
+      "Total Candidate": 1
     },
     "Janasena Party": {
       "EVM Votes": 1431120,
       "Postal Votes": 23018,
-      "Total Votes": 1454138
+      "Total Votes": 1454138,
+      "Total Candidate": 2
     },
     "Bhartiya Kranti Vir Party": {
       "EVM Votes": 8709,
       "Postal Votes": 40,
-      "Total Votes": 8749
+      "Total Votes": 8749,
+      "Total Candidate": 1
     },
     "Rashtriya Lok Morcha": {
       "EVM Votes": 253088,
       "Postal Votes": 788,
-      "Total Votes": 253876
+      "Total Votes": 253876,
+      "Total Candidate": 1
     },
     "Rashtra Sewa Dal": {
       "EVM Votes": 5891,
       "Postal Votes": 28,
-      "Total Votes": 5919
+      "Total Votes": 5919,
+      "Total Candidate": 1
     },
     "Bharatiya Aam Awam Party": {
       "EVM Votes": 5527,
       "Postal Votes": 58,
-      "Total Votes": 5585
+      "Total Votes": 5585,
+      "Total Candidate": 1
     },
     "Rashtriya Lok Dal": {
       "EVM Votes": 888369,
       "Postal Votes": 5091,
-      "Total Votes": 893460
+      "Total Votes": 893460,
+      "Total Candidate": 2
     },
     "Majdoor Kisan Union Party": {
       "EVM Votes": 2088,
       "Postal Votes": 17,
-      "Total Votes": 2105
+      "Total Votes": 2105,
+      "Total Candidate": 1
     },
     "Sarvjan Samta Party": {
       "EVM Votes": 4957,
       "Postal Votes": 63,
-      "Total Votes": 5020
+      "Total Votes": 5020,
+      "Total Candidate": 1
     },
     "Sarvjan Lok Shakti Party": {
       "EVM Votes": 3202,
       "Postal Votes": 78,
-      "Total Votes": 3280
+      "Total Votes": 3280,
+      "Total Candidate": 1
     },
     "Jammu & Kashmir National Conference": {
       "EVM Votes": 1139084,
       "Postal Votes": 7957,
-      "Total Votes": 1147041
+      "Total Votes": 1147041,
+      "Total Candidate": 3
     },
     "Jammu & Kashmir Peoples Democratic Party": {
       "EVM Votes": 433049,
       "Postal Votes": 2931,
-      "Total Votes": 435980
+      "Total Votes": 435980,
+      "Total Candidate": 3
     },
     "Jammu and Kashmir Apni Party": {
       "EVM Votes": 206810,
       "Postal Votes": 1339,
-      "Total Votes": 208149
+      "Total Votes": 208149,
+      "Total Candidate": 2
     },
     "Democratic Progressive Azad Party": {
       "EVM Votes": 40501,
       "Postal Votes": 164,
-      "Total Votes": 40665
+      "Total Votes": 40665,
+      "Total Candidate": 2
     },
     "National Loktantrik Party": {
       "EVM Votes": 11173,
       "Postal Votes": 113,
-      "Total Votes": 11286
+      "Total Votes": 11286,
+      "Total Candidate": 3
     },
     "Garib Democratic Party": {
       "EVM Votes": 2731,
       "Postal Votes": 17,
-      "Total Votes": 2748
+      "Total Votes": 2748,
+      "Total Candidate": 1
     },
     "United People’s Party, Liberal": {
       "EVM Votes": 484681,
       "Postal Votes": 4314,
-      "Total Votes": 488995
+      "Total Votes": 488995,
+      "Total Candidate": 1
     },
     "Hindustani Awam Morcha (Secular)": {
       "EVM Votes": 492732,
       "Postal Votes": 2228,
-      "Total Votes": 494960
+      "Total Votes": 494960,
+      "Total Candidate": 1
     },
     "Kerala Congress": {
       "EVM Votes": 358369,
       "Postal Votes": 6262,
-      "Total Votes": 364631
+      "Total Votes": 364631,
+      "Total Candidate": 1
     },
     "Kerala Congress  (M)": {
       "EVM Votes": 272418,
       "Postal Votes": 4947,
-      "Total Votes": 277365
+      "Total Votes": 277365,
+      "Total Candidate": 1
     },
     "Samajwadi Jan Parishad": {
       "EVM Votes": 1581,
       "Postal Votes": 56,
-      "Total Votes": 1637
+      "Total Votes": 1637,
+      "Total Candidate": 1
     },
     "Voice of the People Party": {
       "EVM Votes": 569156,
       "Postal Votes": 1922,
-      "Total Votes": 571078
+      "Total Votes": 571078,
+      "Total Candidate": 1
     },
     "United Democratic Party": {
       "EVM Votes": 44278,
       "Postal Votes": 285,
-      "Total Votes": 44563
+      "Total Votes": 44563,
+      "Total Candidate": 1
     },
     "Zoram People’s Movement": {
       "EVM Votes": 206377,
       "Postal Votes": 2175,
-      "Total Votes": 208552
+      "Total Votes": 208552,
+      "Total Candidate": 1
     },
     "Mizo National Front": {
       "EVM Votes": 139532,
       "Postal Votes": 732,
-      "Total Votes": 140264
+      "Total Votes": 140264,
+      "Total Candidate": 1
     },
     "Mizoram People's Conference": {
       "EVM Votes": 3681,
       "Postal Votes": 112,
-      "Total Votes": 3793
+      "Total Votes": 3793,
+      "Total Candidate": 1
     },
     "Rashtriya Loktantrik Party": {
       "EVM Votes": 591460,
       "Postal Votes": 5495,
-      "Total Votes": 596955
+      "Total Votes": 596955,
+      "Total Candidate": 1
     },
     "Abhinav Rajasthan Party": {
       "EVM Votes": 26251,
       "Postal Votes": 43,
-      "Total Votes": 26294
+      "Total Votes": 26294,
+      "Total Candidate": 1
     },
     "Sikkim Krantikari Morcha": {
       "EVM Votes": 156836,
       "Postal Votes": 7560,
-      "Total Votes": 164396
+      "Total Votes": 164396,
+      "Total Candidate": 1
     },
     "Citizen Action Party-Sikkim": {
       "EVM Votes": 78666,
       "Postal Votes": 4900,
-      "Total Votes": 83566
+      "Total Votes": 83566,
+      "Total Candidate": 1
     },
     "Sikkim Democratic Front": {
       "EVM Votes": 75464,
       "Postal Votes": 1707,
-      "Total Votes": 77171
+      "Total Votes": 77171,
+      "Total Candidate": 1
     },
     "Sikkim Republican Party": {
       "EVM Votes": 4591,
       "Postal Votes": 208,
-      "Total Votes": 4799
+      "Total Votes": 4799,
+      "Total Candidate": 1
     },
     "Marumalarchi Dravida Munnetra Kazhagam": {
       "EVM Votes": 538877,
       "Postal Votes": 3336,
-      "Total Votes": 542213
+      "Total Votes": 542213,
+      "Total Candidate": 1
     },
     "All India Mahila Empowerment Party": {
       "EVM Votes": 515,
       "Postal Votes": 0,
-      "Total Votes": 515
+      "Total Votes": 515,
+      "Total Candidate": 1
     },
     "Maa Telangana Party": {
       "EVM Votes": 422,
       "Postal Votes": 1,
-      "Total Votes": 423
+      "Total Votes": 423,
+      "Total Candidate": 1
     },
     "Indian Praja Congress": {
       "EVM Votes": 141,
       "Postal Votes": 0,
-      "Total Votes": 141
+      "Total Votes": 141,
+      "Total Candidate": 1
     },
     "Telangana Prajaa Jeevana Rythu Party": {
       "EVM Votes": 141,
       "Postal Votes": 0,
-      "Total Votes": 141
+      "Total Votes": 141,
+      "Total Candidate": 1
     },
     "All India Mazdoor Party (Rangreta)": {
       "EVM Votes": 1363,
       "Postal Votes": 11,
-      "Total Votes": 1374
+      "Total Votes": 1374,
+      "Total Candidate": 1
     },
     "Sanjhi Virasat Party": {
       "EVM Votes": 1608,
       "Postal Votes": 2,
-      "Total Votes": 1610
+      "Total Votes": 1610,
+      "Total Candidate": 2
     },
     "Navsarjan Bharat Party": {
       "EVM Votes": 545,
       "Postal Votes": 0,
-      "Total Votes": 545
+      "Total Votes": 545,
+      "Total Candidate": 1
     },
     "National Youth Party": {
       "EVM Votes": 2315,
       "Postal Votes": 28,
-      "Total Votes": 2343
+      "Total Votes": 2343,
+      "Total Candidate": 1
     }
   }
 }

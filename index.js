@@ -152,35 +152,46 @@ const constituencywisedataset = require('./dataset/constituency-wise-vote-count-
 const constituency = Object.keys(constituencywisedataset).length
 
 const constituencyWise = {};
-let total = 0;
-const partyWiseTotalVote = {};
+let totalVoteCountInLS2024 = 0;
+let totalCandidateInLS2024 = 0;
+const partyWiseData = {};
+const parties = [];
 
 for (const key in constituencywisedataset) {
     if (Object.hasOwnProperty.call(constituencywisedataset, key)) {
-        const element = constituencywisedataset[key];
+        const candidateList = constituencywisedataset[key];
 
         constituencyWise[key] = 0;
 
-        element.forEach(each => {
-            constituencyWise[key] += parseInt(each["Total Votes"])
-            if (each['Party'] in partyWiseTotalVote) {
-                partyWiseTotalVote[each['Party']]['EVM Votes'] += parseInt(each['EVM Votes']) || 0;
-                partyWiseTotalVote[each['Party']]['Postal Votes'] += parseInt(each['Postal Votes']) || 0;
-                partyWiseTotalVote[each['Party']]['Total Votes'] += parseInt(each['Total Votes']) || 0;
+        candidateList.forEach(candidate => {
+            constituencyWise[key] += parseInt(candidate["Total Votes"])
+            if (candidate['Party'] in partyWiseData) {
+                partyWiseData[candidate['Party']]['EVM Votes'] += parseInt(candidate['EVM Votes']) || 0;
+                partyWiseData[candidate['Party']]['Postal Votes'] += parseInt(candidate['Postal Votes']) || 0;
+                partyWiseData[candidate['Party']]['Total Votes'] += parseInt(candidate['Total Votes']) || 0;
+                partyWiseData[candidate['Party']]['Total Candidate']++;
             } else {
-                partyWiseTotalVote[each['Party']] = {
-                    "EVM Votes": parseInt(each['EVM Votes']) || 0,
-                    "Postal Votes": parseInt(each['Postal Votes']) || 0,
-                    "Total Votes": parseInt(each['Total Votes']) || 0,
+                partyWiseData[candidate['Party']] = {
+                    "EVM Votes": parseInt(candidate['EVM Votes']) || 0,
+                    "Postal Votes": parseInt(candidate['Postal Votes']) || 0,
+                    "Total Votes": parseInt(candidate['Total Votes']) || 0,
+                    "Total Candidate": 1
                 };
+            }
+            if (!parties.includes(candidate['Party']) && candidate['Party'] !== 'Independent' && candidate['Candidate'] !== 'NOTA') {
+                parties.push(candidate['Party'])
+            }
+            if (candidate['Candidate'] !== 'NOTA') {
+                totalCandidateInLS2024++;
             }
         });
 
 
         if (Number.isNaN(constituencyWise[key])) continue;
-        total = constituencyWise[key] + total;
+        totalVoteCountInLS2024 = constituencyWise[key] + totalVoteCountInLS2024;
     }
 }
 
+const partyInLS2024 = parties.length;
 
-saveData({ constituencyWise, total, constituency, partyWiseTotalVote }, 'count-stats.json');
+saveData({ partyInLS2024, totalVoteCountInLS2024, totalCandidateInLS2024, constituency,constituencyWise, partyWiseData }, 'statistics.json');

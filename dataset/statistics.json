@@ -1,9 +1,9 @@
 {
-  "partyCountInLS2024": 744,
-  "totalVoteCountInLS2024": 645363445,
-  "totalCandidateInLS2024": 8360,
-  "constituency": 543,
-  "constituencyWise": {
+  "TOTAL_PARTY": 744,
+  "TOTAL_VOTES": 645363445,
+  "TOTAL_CANDIDATE": 8360,
+  "NO_OF_CONSTITUENCY": 543,
+  "CONSTITUENCY_WISE_TOTAL_VOTES": {
     "Anakapalle(5)": 1325332,
     "Rajahmundry(8)": 1325297,
     "Narsapuram(9)": 1230994,
@@ -548,7 +548,7 @@
     "BARAMULLA(1)": 1033900,
     "Ladakh(1)": 135524
   },
-  "notaInLS2024": {
+  "VOTES_IN_NOTA": {
     "EVM Votes": 6324678,
     "Postal Votes": 47542,
     "Total Votes": 6372220,
@@ -556,7 +556,7 @@
     "Won": 0,
     "Constituency Won list": []
   },
-  "independentCandidateData": {
+  "INDEPENDENT_CANDIDATE_DATA": {
     "EVM Votes": 17755186,
     "Postal Votes": 89256,
     "Total Votes": 17844442,
@@ -572,7 +572,7 @@
       "Ladakh(1)"
     ]
   },
-  "partyWiseData": {
+  "PARTY_WISE_DATA": {
     "Bharatiya Janata Party": {
       "EVM Votes": 234613216,
       "Postal Votes": 1360719,

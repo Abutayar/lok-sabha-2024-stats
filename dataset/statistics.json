@@ -568,7 +568,8 @@
           "Postal Votes": "3005",
           "Total Votes": "1226751",
           "% of Votes": "78.54"
-        }
+        },
+        "percentageOfConstituencyVotes": 13.999902686866825
       },
       "lowest": {
         "constituency": "Lakshadweep(1)",
@@ -581,8 +582,10 @@
           "Postal Votes": "321",
           "Total Votes": "25726",
           "% of Votes": "52.29"
-        }
-      }
+        },
+        "percentageOfConstituencyVotes": 0.2703252032520325
+      },
+      "percentageOfOverAllVotes": 0.9873847131208369
     }
   },
   "INDEPENDENT_CANDIDATE_DATA": {

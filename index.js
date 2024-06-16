@@ -232,6 +232,12 @@ for (const constituency in constituencywisedataset) {
     }
 }
 
+
+NOTA_FACTS.percentageOfOverAllVotes =  (100 * NOTA_FACTS.total) / TOTAL_VOTES;
+NOTA_FACTS.highest.percentageOfConstituencyVotes = (100 * NOTA_FACTS.highest.count) / CONSTITUENCY_WISE_TOTAL_VOTES[NOTA_FACTS.highest.constituency];
+NOTA_FACTS.lowest.percentageOfConstituencyVotes = (100 * NOTA_FACTS.lowest.count) / CONSTITUENCY_WISE_TOTAL_VOTES[NOTA_FACTS.lowest.constituency];
+
+
 const TOTAL_PARTY = parties.length;
 
 const ALL_ABOUT_NOTA = { ...PARTY_WISE_DATA['None of the Above'], ...{NOTA_FACTS} };

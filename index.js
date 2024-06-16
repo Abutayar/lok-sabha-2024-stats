@@ -156,20 +156,19 @@ const CONSTITUENCY_WISE_TOTAL_VOTES = {};
 let TOTAL_VOTES = 0;
 let TOTAL_CANDIDATE = 0;
 
-let NOTA_STATS = {
+let NOTA_FACTS = {
     total: 0,
     highest: {
         constituency: null,
-        count: 0
+        count: -Infinity
     },
     lowest: {
         constituency: null,
-        count: 0
+        count: Infinity
     },
 }
 const PARTY_WISE_DATA = {};
 const parties = [];
-let count = 0;
 for (const constituency in constituencywisedataset) {
     if (Object.hasOwnProperty.call(constituencywisedataset, constituency)) {
         const candidateList = constituencywisedataset[constituency];
@@ -197,6 +196,23 @@ for (const constituency in constituencywisedataset) {
                 parties.push(candidate['Party'])
             }
 
+            if(candidate['Candidate'] === 'NOTA'){
+                const temp_count = parseInt(candidate['Total Votes']) || 0
+                NOTA_FACTS.total += temp_count;
+
+                if(NOTA_FACTS.highest.count < temp_count) {
+                    NOTA_FACTS.highest.whoWon = candidateList[0];
+                    NOTA_FACTS.highest.count = temp_count
+                    NOTA_FACTS.highest.constituency = constituency
+                }
+
+                if(NOTA_FACTS.lowest.count > temp_count) {
+                    NOTA_FACTS.lowest.whoWon = candidateList[0];
+                    NOTA_FACTS.lowest.count = temp_count
+                    NOTA_FACTS.lowest.constituency = constituency
+                }
+            }
+
             /* if(candidate['Party'] == 'Independent') {
                 totalIndependentCandidate++;
             } */
@@ -208,7 +224,6 @@ for (const constituency in constituencywisedataset) {
         });
         PARTY_WISE_DATA[candidateList[0]['Party']]['Won']++;
         PARTY_WISE_DATA[candidateList[0]['Party']]['Constituency Won list'].push(constituency);
-        count++;
 
 
 
@@ -219,7 +234,7 @@ for (const constituency in constituencywisedataset) {
 
 const TOTAL_PARTY = parties.length;
 
-const VOTES_IN_NOTA = { ...PARTY_WISE_DATA['None of the Above'] };
+const ALL_ABOUT_NOTA = { ...PARTY_WISE_DATA['None of the Above'], ...{NOTA_FACTS} };
 delete PARTY_WISE_DATA['None of the Above']
 const INDEPENDENT_CANDIDATE_DATA = { ...PARTY_WISE_DATA['Independent'] };
 delete PARTY_WISE_DATA['Independent']
@@ -235,7 +250,7 @@ saveData(
         TOTAL_CANDIDATE,
         NO_OF_CONSTITUENCY,
         CONSTITUENCY_WISE_TOTAL_VOTES,
-        VOTES_IN_NOTA,
+        ALL_ABOUT_NOTA,
         INDEPENDENT_CANDIDATE_DATA,
         PARTY_WISE_DATA
     }, 'statistics.json');

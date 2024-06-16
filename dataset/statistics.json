@@ -548,13 +548,42 @@
     "BARAMULLA(1)": 1033900,
     "Ladakh(1)": 135524
   },
-  "VOTES_IN_NOTA": {
+  "ALL_ABOUT_NOTA": {
     "EVM Votes": 6324678,
     "Postal Votes": 47542,
     "Total Votes": 6372220,
     "Total Candidate": 542,
     "Won": 0,
-    "Constituency Won list": []
+    "Constituency Won list": [],
+    "NOTA_FACTS": {
+      "total": 6372220,
+      "highest": {
+        "constituency": "INDORE(26)",
+        "count": 218674,
+        "whoWon": {
+          "S.N.": "1",
+          "Candidate": "SHANKAR LALWANI",
+          "Party": "Bharatiya Janata Party",
+          "EVM Votes": "1223746",
+          "Postal Votes": "3005",
+          "Total Votes": "1226751",
+          "% of Votes": "78.54"
+        }
+      },
+      "lowest": {
+        "constituency": "Lakshadweep(1)",
+        "count": 133,
+        "whoWon": {
+          "S.N.": "1",
+          "Candidate": "MUHAMMED HAMDULLAH SAYEED",
+          "Party": "Indian National Congress",
+          "EVM Votes": "25405",
+          "Postal Votes": "321",
+          "Total Votes": "25726",
+          "% of Votes": "52.29"
+        }
+      }
+    }
   },
   "INDEPENDENT_CANDIDATE_DATA": {
     "EVM Votes": 17755186,
